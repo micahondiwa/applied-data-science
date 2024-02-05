@@ -1,0 +1,701 @@
+,property_type,place_with_parent_names,lat-lon,area_m2,price_usd
+1,apartment,|México|Distrito Federal|Gustavo A. Madero|Acueducto de Guadalupe|,"19.52589,-99.151703",71,48550.59
+2,house,|México|Estado de México|Toluca|Metepec|,"19.2640539,-99.5727534",233,168636.73
+3,house,|México|Estado de México|Toluca|Toluca de Lerdo|Ocho Cedros|,"19.268629,-99.671722",300,86932.69
+4,house,|México|Morelos|Temixco|Burgos Bugambilias|,,275,263432.41
+5,apartment,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.511938,-96.871956",84,68508.67
+6,house,|México|Jalisco|Guadalajara|,"20.689157,-103.366728",175,102763
+7,house,|México|Sinaloa|Mazatlán|,,146,152421.99
+8,apartment,|México|Tamaulipas|Tampico|,,165,105397.95
+9,apartment,|México|Distrito Federal|Miguel Hidalgo|,,80,310923.97
+10,house,|México|Yucatán|Mérida|,"21.0441317,-89.6216334",223,126477.54
+11,house,|México|Quintana Roo|Benito Juárez|Cancún|,"21.129547,-86.817017",179,121207.64
+12,house,|México|Guanajuato|Guanajuato|,"21.003574,-101.285683",205,226869.1
+13,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.667873,-101.233465",130,76395.4
+14,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.443178,-99.144234",67,50052.15
+15,apartment,|México|Distrito Federal|Benito Juárez|,"19.396593,-99.133163",80,51076.22
+16,house,|México|Guanajuato|León|,"21.1299039,-101.6220159",263,152932.43
+17,house,|México|Nuevo León|Monterrey|,"25.625994,-100.283852",367,216014.58
+18,apartment,|México|Distrito Federal|Gustavo A. Madero|,"19.524143,-99.160149",60,34246.21
+19,apartment,|México|Distrito Federal|Álvaro Obregón|,"19.386959,-99.219492",120,100104.31
+20,house,|México|Puebla|San Andrés Cholula|,,294,214170.55
+21,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"20.949741,-97.396337",320,158059.45
+22,house,|México|Morelos|Cuernavaca|,"18.920345,-99.235603",122,103500.79
+23,apartment,|México|Guerrero|,"16.863794,-99.881614",191,237145.4
+24,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.136782,-96.123543",220,104319.23
+25,apartment,|México|Distrito Federal|Benito Juárez|,"19.403334,-99.145021",153,65633.66
+26,house,|México|Yucatán|Mérida|Cholul|,"21.0411724,-89.5550539",205,90115.25
+27,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"25.441315,-100.987683",120,110667.85
+28,house,|México|Baja California|Tijuana|,"32.425724,-117.034189",115,62585.3
+29,house,|México|Estado de México|Texcoco|,"19.484794,-98.874065",260,91674.48
+30,apartment,|México|Distrito Federal|Benito Juárez|,"19.378533,-99.187561",107,79443.7
+31,house,|México|Nuevo León|Monterrey|,"25.740887,-100.385582",192,115910.26
+32,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.769737,-93.088928",106,52686.48
+33,house,|México|Jalisco|Guadalajara|,"20.650429,-103.374611",190,150192.08
+34,apartment,|México|Distrito Federal|Gustavo A. Madero|,,79,39524.23
+35,apartment,|México|Distrito Federal|Álvaro Obregón|,"19.387613,-99.202726",103,50942.31
+36,house,|México|Morelos|Jiutepec|,"18.890867,-99.177444",171,105397.95
+37,apartment,|México|Quintana Roo|Benito Juárez|Cancún|,"21.139086,-86.84964",203,189716.32
+38,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.413079,-99.174228",140,273969.71
+39,house,|México|Distrito Federal|Cuauhtémoc|,"19.410826,-99.143757",160,157532.58
+40,house,|México|Morelos|Cuernavaca|,"18.900852,-99.213448",200,173865.39
+41,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.428767,-99.1459",75,56689.55
+42,house,|México|Estado de México|Ecatepec de Morelos|Ecatepec de Morelos|Izcalli Ecatepec|,"19.595285,-99.050201",149,100104.31
+43,apartment,|México|Estado de México|Atizapán de Zaragoza|,"19.531834,-99.240456",117,144922.18
+44,house,|México|Morelos|Cuautla|,"18.818652,-98.936752",293,110667.85
+45,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"23.634501,-102.552788",233,99577.45
+46,house,|México|Quintana Roo|Benito Juárez|Cancún|,"21.137991,-86.870964",280,92201.34
+47,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"18.7696195,-95.758949",160,92130.98
+48,house,|México|San Luis Potosí|San Luis Potosí|,"22.169217188,-101.0471907892",190,99050.58
+49,house,|México|Nuevo León|Santiago|Bosques de San José|,"23.634501,-102.552788",200,98523.72
+50,house,|México|Estado de México|Juchitepec|Juchitepec de Mariano Riva Palacio|,"19.101794,-98.87164",300,52686.48
+51,house,|México|Puebla|San Andrés Cholula|,,245,226551.88
+52,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.517859,-96.891403",180,123842.59
+53,house,|México|Distrito Federal|Tlalpan|,"19.2790911,-99.2114234",117,142253.5
+54,apartment,|México|Oaxaca|Santa María Huatulco|,"15.752900306,-96.1357247829",83,68245.17
+55,apartment,|México|Distrito Federal|Tlalpan|Fuentes del Pedregal|,"19.302422,-99.230829",104,103370.88
+56,house,|México|Distrito Federal|Álvaro Obregón|,"19.343664,-99.212308",350,242357.82
+57,apartment,|México|Guerrero|Acapulco de Juárez|,"16.868438,-99.89028",100,79029.72
+58,house,|México|Yucatán|Mérida|Cholul|,,190,89061.27
+59,house,|México|Morelos|Cuernavaca|,"18.93409,-99.254997",198,123813.23
+60,house,|México|Estado de México|Ecatepec de Morelos|Ecatepec de Morelos|,"19.534415,-99.023333",280,55039.77
+61,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,235,144887.83
+62,house,|México|Puebla|San Andrés Cholula|,"19.043223,-98.268716",168,92201.34
+63,apartment,|México|Puebla|Puebla|,"19.0527224248,-98.2346042991",75,81683.41
+64,house,|México|Yucatán|Mérida|Temozon Norte|,,230,120074.62
+65,house,|México|Morelos|Cuernavaca|La Cañada|,"18.981213,-99.206345",200,115910.26
+66,apartment,|México|Distrito Federal|Benito Juárez|,"19.395097,-99.150424",80,53158.13
+67,house,|México|Morelos|Temixco|,"18.862602,-99.213448",305,189716.32
+68,house,|México|Jalisco|Zapopan|,"20.594334,-103.425086",90,57955.13
+69,apartment,|México|Puebla|San Andrés Cholula|,,212,293358.34
+70,house,|México|Puebla|Puebla|,"18.9915056,-98.2181614",152,105397.95
+71,apartment,|México|San Luis Potosí|San Luis Potosí|,"22.125832,-101.035118",144,100128.05
+72,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,252,144922.18
+73,apartment,|México|Nuevo León|Monterrey|,"25.592172,-99.9961947",87,173490.81
+74,house,|México|Estado de México|Toluca|,"19.295469,-99.692619",84,49986.51
+75,house,|México|Guanajuato|Irapuato|,"20.703063,-101.339442",90,55320.8
+76,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.670241,-101.190542",190,165962.42
+77,house,|México|Yucatán|Mérida|,"20.9591553064,-89.627494812",135,89587.99
+78,house,|México|Jalisco|Zapopan|,"20.635013,-103.42725",200,120652.04
+79,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.673779,-101.187927",260,158059.45
+80,apartment,|México|Tabasco|Centro|,"17.997911,-92.923836",125,210745.93
+81,apartment,|México|Estado de México|Naucalpan de Juárez|,"19.508253,-99.254997",113,153686.47
+82,apartment,|México|Morelos|Cuernavaca|,"18.937398,-99.246207",127,131747.44
+83,apartment,|México|Baja California|Tijuana|Tijuana|Loma Bonita Norte|,"32.486253,-117.054332",63,36817.31
+84,house,|México|Puebla|San Andrés Cholula|,"18.9802279987,-98.2865452766",272,210795.91
+85,house,|México|Querétaro|El Marqués|,"20.5969621,-100.3337597",95,52698.97
+86,house,|México|Yucatán|Mérida|,"21.0181429,-89.6396127",180,72724.58
+87,house,|México|Chihuahua|Chihuahua|,"28.6275048,-106.0401387",212,44256.64
+88,house,|México|Chiapas|Jiquipilas|Michoacán|,,280,252895.06
+89,house,|México|Querétaro|Querétaro|,"20.723525,-100.45586",248,151210.2
+90,house,|México|Distrito Federal|Tláhuac|,,223,79029.72
+91,house,|México|Querétaro|Querétaro|Real de Juriquilla|,"20.729762,-100.467159",198,131716.2
+92,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"18.7696195,-95.758949",245,147557.13
+93,house,|México|Distrito Federal|Cuauhtémoc|,"19.410632,-99.13847",140,162801.23
+94,house,|México|Estado de México|Tecámac|,"19.672207,-99.015656",158,86247.77
+95,house,|México|Chihuahua|Chihuahua|,"28.6103324259,-106.1123085022",200,134382.39
+96,house,|México|Baja California Sur|Los Cabos|El Zacatal|,"23.634501,-102.552788",100,44730.82
+97,apartment,|México|Tabasco|Centro|,"17.928942,-92.912029",67,35826.8
+98,house,|México|Estado de México|Cuautitlán Izcalli|,,70,57955.13
+99,house,|México|Jalisco|Tlajomulco de Zúñiga|Tlajomulco de Zúñiga|,"20.572651,-103.474675",270,250260.79
+100,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.1553371,-96.1682507",282,68508.67
+101,house,|México|Yucatán|Mérida|,,203,93781.94
+102,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"20.957177,-97.410652",350,115910.26
+103,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,155,86932.69
+104,house,|México|Nuevo León|Apodaca|,"25.7815621,-100.1875974",108,35036.51
+105,house,|México|Yucatán|Mérida|Cholul|,"21.039522,-89.563911",162,83226.17
+106,house,|México|Puebla|San Andrés Cholula|Lomas de Angelópolis|,,280,173865.39
+107,house,|México|Querétaro|Corregidora|,"20.543838,-100.412211",145,115910.26
+108,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.1564195,-96.111619",190,124633.08
+109,house,|México|Estado de México|Atizapán de Zaragoza|Ciudad Adolfo López Mateos|Bosque Esmeralda|,,250,315592.03
+110,house,|México|Distrito Federal|Xochimilco|San Juan Tepepan|,"19.275725,-99.129684",80,132559.19
+111,house,|México|Morelos|Yautepec|,"18.90666,-98.965851",330,184402.69
+112,apartment,|México|Distrito Federal|Iztapalapa|,"19.342083,-99.0532159",83,52574.87
+113,house,|México|Querétaro|Querétaro|,"20.570164,-100.363823",135,78521.47
+114,house,|México|Morelos|Cuernavaca|,"18.926468,-99.214211",340,289775.66
+115,apartment,|México|Distrito Federal|Benito Juárez|,"19.368553,-99.178235",174,89430.16
+116,house,|México|Querétaro|Querétaro|,"20.5828187131,-100.417855382",93,59022.85
+117,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.427607,-99.160835",102,177267.41
+118,house,|México|Chiapas|Tuxtla Gutiérrez|Tuxtla Gutiérrez|San Pedro Progresivo|,"16.770111,-93.08167",144,71126.75
+119,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.460046,-99.140495",70,79029.72
+120,house,|México|Morelos|Atlatlahucan|Fraccionamiento Lomas de Cocoyoc|,"18.9015371,-98.9336558",200,123842.59
+121,house,|México|Puebla|San Andrés Cholula|San Andrés Cholula|Lomas de Angelópolis II|,,263,273969.71
+122,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.748295,-93.084284",140,84298.37
+123,apartment,|México|Querétaro|Querétaro|,,225,141288.6
+124,house,|México|Querétaro|Corregidora|,"20.5198184,-100.3933074",123,85178.23
+125,house,|México|Morelos|Jiutepec|,"18.890867,-99.177444",150,86932.69
+126,house,|México|Estado de México|Tecámac|Tecamac de Felipe Villanueva|Norchuca|,"19.682383,-98.984458",74,33350.54
+127,house,|México|Querétaro|Querétaro|,"20.582091,-100.391196",300,237089.17
+128,apartment,|México|Puebla|Puebla|,"19.0733273,-98.2658243",164,184446.42
+129,house,|México|Quintana Roo|Benito Juárez|Cancún|,"21.161908,-86.8515279",220,136984.85
+130,apartment,|México|Morelos|Cuernavaca|,"18.949474,-99.232381",129,137017.34
+131,house,|México|Morelos|Xochitepec|Atlacholoaya|,"18.795519,-99.231445",71,36353.67
+132,house,|México|Estado de México|Naucalpan de Juárez|,,300,245050.24
+133,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"25.484016,-100.966568",290,115910.26
+134,house,|México|Querétaro|Corregidora|,"20.536322,-100.436844",280,205477.28
+135,house,|México|Distrito Federal|Coyoacán|Campestre Churubusco|,"19.343424,-99.135933",182,68492.42
+136,house,|México|Colima|Villa de Álvarez|,"19.274727,-103.74485",329,104343.97
+137,house,|México|Querétaro|Corregidora|,"20.5412697,-100.3997814",110,59022.85
+138,house,|México|Nuevo León|San Nicolás de los Garza|,"25.7296370244,-100.2941036224",310,237145.4
+139,house,|México|Puebla|Puebla|,,180,123813.23
+140,house,|México|Morelos|Cuautla|,"18.835054,-98.951226",250,68492.42
+141,apartment,|México|Distrito Federal|Benito Juárez|,"19.368475,-99.17952",81,149629.61
+142,house,|México|Distrito Federal|Xochimilco|Barrio 18|,"19.285891,-99.108269",210,85949.19
+143,apartment,|México|Distrito Federal|Benito Juárez|,"19.392302,-99.154385",150,222924.2
+144,house,|México|Distrito Federal|Tlalpan|,"19.2925929444,-99.1806221008",96,138598.31
+145,house,|México|Querétaro|Corregidora|,"20.5426931,-100.4512523",260,122525.12
+146,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.0652948,-96.069905",239,138334.81
+147,house,|México|Jalisco|Zapopan|,"20.6129,-103.464564",275,163328.09
+148,house,|México|Jalisco|Zapopan|,,209,118572.7
+149,house,|México|Puebla|San Pedro Cholula|,,140,100128.05
+150,apartment,|México|Puebla|San Andrés Cholula|,"18.983398,-98.288951",192,121207.64
+151,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.657836,-101.184317",260,68492.42
+152,house,|México|Yucatán|Mérida|,"21.03071,-89.618103",126,77467.49
+153,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.710472,-101.222626",190,63223.78
+154,house,|México|Distrito Federal|Xochimilco|,,340,258163.77
+155,house,|México|Estado de México|Naucalpan de Juárez|,"19.476202,-99.261893",230,289775.66
+156,house,|México|Chihuahua|Chihuahua|,"28.663404,-106.133102",182,326733.66
+157,house,|México|Jalisco|Zapopan|,"20.726262,-103.468575",206,168596.74
+158,house,|México|Nuevo León|Monterrey|,,144,89316.64
+159,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.137135,-96.112946",125,60589.45
+160,house,|México|Estado de México|Atizapán de Zaragoza|Ciudad Adolfo López Mateos|Lomas de Bellavista|,"19.5224623443,-99.2515909641",210,202842.96
+161,apartment,|México|Querétaro|Querétaro|,"20.696185,-100.450005",132,93781.94
+162,house,|México|Hidalgo|Pachuca de Soto|,"20.092012,-98.741743",116,84087.62
+163,house,|México|Baja California|Mexicali|Mexicali|Hacienda del Real|,"32.601212,-115.474838",102,33982.78
+164,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.765467,-93.105786",370,192305.66
+165,house,|México|Yucatán|Mérida|Cholul|,"21.039522,-89.563911",195,91632.19
+166,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,225,147522.15
+167,apartment,|México|Puebla|Puebla|Puebla (Heroica Puebla)|San Francisco Mayorazgo|,"18.989942,-98.247486",100,55847.67
+168,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"18.898756,-96.998779",130,68492.42
+169,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.119549,-96.107643",232,125393.83
+170,house,|México|Distrito Federal|Álvaro Obregón|El Rincón|,"19.353288,-99.244721",90,136405.3
+171,house,|México|San Luis Potosí|San Luis Potosí|,"22.1385005078,-100.9965722937",168,104319.23
+172,house,|México|Sonora|Hermosillo|,"29.083198,-110.993222",162,57955.13
+173,house,|México|Puebla|San Andrés Cholula|,"19.044477,-98.328011",165,111331.75
+174,house,|México|Distrito Federal|Gustavo A. Madero|,"19.510133,-99.100025",171,141199.77
+175,house,|México|Morelos|Cuautla|,"18.850763,-98.943855",168,67438.69
+176,house,|México|Nuevo León|San Nicolás de los Garza|,"25.758372724,-100.2713531256",98,43213.16
+177,house,|México|Querétaro|Querétaro|,"20.726007,-100.442642",260,163328.09
+178,house,|México|Yucatán|Mérida|Dzitya|,,171,94256.11
+179,house,|México|Estado de México|Atizapán de Zaragoza|,"19.5562275,-99.2674713",150,205526.01
+180,apartment,|México|Distrito Federal|Álvaro Obregón|San Angel|,"19.345528,-99.189906",60,46943.65
+181,house,|México|Morelos|Cuernavaca|,"18.935198,-99.232834",300,289775.66
+182,house,|México|Puebla|Puebla|El Carmen|,"19.03362,-98.203294",156,99577.45
+183,house,|México|Estado de México|Toluca|Metepec|,"19.229864,-99.597954",256,184446.42
+184,house,|México|Yucatán|Mérida|Cholul|,"21.039522,-89.563911",330,171271.67
+185,house,|México|Morelos|Cuernavaca|,"18.936026,-99.216217",220,205477.28
+186,house,|México|Tabasco|Nacajuca|,"18.053865,-92.937809",182,81664.04
+187,house,|México|Yucatán|Mérida|,"20.9968241,-89.5846761",164,62711.78
+188,apartment,|México|Puebla|San Andrés Cholula|,,212,282821.04
+189,house,|México|Yucatán|Mérida|,"20.984423,-89.579231",162,47417.83
+190,house,|México|Morelos|Cuautla|,"18.864874,-98.925911",120,51369.32
+191,house,|México|Distrito Federal|Iztacalco|Agrícola Oriental|,"19.40112,-99.06707",317,173906.62
+192,house,|México|Querétaro|Querétaro|,"20.705742,-100.444016",185,146995.28
+193,house,|México|Sinaloa|Culiacán|,"24.813503,-107.371574",220,184446.42
+194,apartment,|México|Morelos|Cuernavaca|,"18.935198,-99.232834",91,101182.03
+195,house,|México|Yucatán|Mérida|,"21.012869,-89.636932",96,57705.38
+196,apartment,|México|Quintana Roo|Benito Juárez|Cancún|,"21.1672703,-86.8414848",120,163366.83
+197,house,|México|Morelos|Cuernavaca|,"18.948607,-99.243812",180,184446.42
+198,house,|México|Morelos|Cuernavaca|,"18.95299,-99.259592",180,102738.64
+199,house,|México|Morelos|Jiutepec|,"18.8816687,-99.1632665",90,68245.17
+200,house,|México|Yucatán|Progreso|,,130,110404.35
+201,house,|México|Querétaro|Querétaro|,"20.5884382058,-100.4006266594",243,200208.63
+202,house,|México|Yucatán|Mérida|,"20.9973786,-89.6296213",170,38470.25
+203,apartment,|México|Distrito Federal|Álvaro Obregón|Olivar de los Padres|,"19.33923,-99.218987",83,147522.15
+204,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.766967,-93.123362",239,226551.88
+205,house,|México|Chihuahua|Chihuahua|,"28.631689,-106.102234",200,115410.76
+206,house,|México|Querétaro|Querétaro|,"20.58966,-100.366899",335,250260.79
+207,house,|México|Querétaro|Querétaro|La Solana|,,280,260798.09
+208,house,|México|Morelos|Temixco|,"18.862602,-99.213448",210,141990.07
+209,house,|México|Yucatán|Conkal|Conkal|,,148,53752.95
+210,apartment,|México|Querétaro|El Marqués|,"20.59808,-100.337153",90,57428.26
+211,apartment,|México|Quintana Roo|Benito Juárez|Cancún|,"21.1789333275,-86.8123199791",75,34254.33
+212,apartment,|México|Nuevo León|Monterrey|,"25.6689477,-100.3536491",117,140741.38
+213,house,|México|Estado de México|Tultitlán|Tultitlán de Mariano Escobedo|La Sardaña|,,165,57968.87
+214,house,|México|Guerrero|,"16.862803,-99.894829",147,92750.2
+215,apartment,|México|Sinaloa|Mazatlán|,"23.296583,-106.479973",134,173865.39
+216,house,|México|Yucatán|Mérida|,"21.0012449,-89.5674103",133,76150.02
+217,house,|México|Morelos|Atlatlahucan|Fraccionamiento Lomas de Cocoyoc|,,130,150192.08
+218,house,|México|Estado de México|Ixtapaluca|Ixtapaluca|,,90,38987.99
+219,house,|México|Estado de México|Cuautitlán Izcalli|Cuautitlán Izcalli|,"19.666832,-99.236992",69,44783.51
+220,house,|México|Nuevo León|San Pedro Garza García|,"25.668703,-100.405373",101,210795.91
+221,house,|México|Jalisco|Zapopan|,"20.663444,-103.426533",350,262115.25
+222,apartment,|México|Estado de México|Tlalnepantla de Baz|Tlalnepantla de Baz|San Lucas Tepetlacalco|,"19.521015,-99.23091",130,171231.07
+223,house,|México|Sinaloa|Mazatlán|,"23.286216,-106.427007",180,86932.69
+224,house,|México|Estado de México|Huixquilucan|Huixquilucan de Degollado|Rinconada de la Herradura|,"19.422676,-99.257774",200,70283.76
+225,house,|México|Estado de México|Cuautitlán Izcalli|,"19.6378074,-99.1995969",254,171271.67
+226,house,|México|Hidalgo|Tulancingo de Bravo|,"20.084376,-98.367993",279,131716.2
+227,house,|México|Puebla|San Andrés Cholula|,,300,226551.88
+228,house,|México|Morelos|Cuautla|Eusebio Jáuregui|,"18.850763,-98.943855",110,73234.21
+229,house,|México|Estado de México|Toluca|,"19.300923,-99.713636",73,43729.78
+230,apartment,|México|Distrito Federal|Miguel Hidalgo|,"19.444723,-99.186447",70,41680.96
+231,house,|México|Distrito Federal|Benito Juárez|,"19.403597,-99.149771",380,257531.53
+232,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,250,125393.83
+233,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.66869,-101.205173",298,168069.88
+234,apartment,|México|Baja California|Tijuana|Tijuana|Nueva Aurora Sur|,"32.486292,-117.054763",63,36817.31
+235,house,|México|Hidalgo|San Agustín Tlaxiaca|,,184,104319.23
+236,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,245,150156.47
+237,apartment,|México|Jalisco|Guadalajara|,"20.705671,-103.396278",180,237145.4
+238,house,|México|Guerrero|Acapulco de Juárez|,"16.8583631,-99.8508616",354,266975.89
+239,apartment,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.1005941575,-96.1070613563",76,84298.37
+240,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,114,65858.1
+241,apartment,|México|Estado de México|Naucalpan de Juárez|,"19.479437,-99.236561",75,105397.95
+242,house,|México|Morelos|Cuernavaca|La Cañada|,"18.981213,-99.206345",240,183348.96
+243,house,|México|Querétaro|Querétaro|,"20.624242,-100.390194",172,86953.31
+244,apartment,|México|Estado de México|Naucalpan de Juárez|,"19.508253,-99.254997",113,153686.47
+245,house,|México|Estado de México|Tlalnepantla de Baz|Tlalnepantla de Baz|,"19.533955,-99.228287",155,52159.61
+246,apartment,|México|Distrito Federal|Benito Juárez|,"19.394073,-99.153915",82,154987.69
+247,house,|México|Morelos|Jiutepec|,"18.878128,-99.187238",110,84298.37
+248,apartment,|México|Querétaro|Querétaro|,"20.5862687746,-100.3786790371",63,113302.8
+249,house,|México|Morelos|Cuernavaca|,"18.961286,-99.212621",60,34773.07
+250,house,|México|Querétaro|Querétaro|,"20.628052,-100.404541",254,147557.13
+251,house,|México|Nuevo León|Monterrey|La Joya Privada Residencial|,,365,287209.43
+252,house,|México|Campeche|Carmen|,"18.660893,-91.7663706",264,172852.64
+253,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.0652948,-96.069905",192,126477.54
+254,house,|México|Tamaulipas|Ciudad Madero|,"22.285725,-97.843597",72,35988.5
+255,apartment,|México|Distrito Federal|Coyoacán|,"19.305984,-99.127341",70,107322.36
+256,house,|México|Distrito Federal|Álvaro Obregón|Los Alpes|,"19.361792,-99.190096",197,49999.47
+257,house,|México|San Luis Potosí|Soledad de Graciano Sánchez|,"22.1877626295,-100.962767601",105,50517.24
+258,house,|México|Morelos|Jojutla|,,208,239780.35
+259,apartment,|México|Querétaro|Querétaro|,"20.726007,-100.442642",105,93856.88
+260,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.417636,-99.153292",70,41095.45
+261,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.570101,-96.918228",140,42623.36
+262,house,|México|Morelos|Yautepec|,"18.885313,-99.062879",97,50052.15
+263,apartment,|México|Distrito Federal|Álvaro Obregón|,,250,237089.17
+264,apartment,|México|San Luis Potosí|San Luis Potosí|,"22.148722,-101.00119",129,92750.2
+265,house,|México|Puebla|Puebla|,"18.985688,-98.230121",73,37670.83
+266,apartment,|México|Estado de México|Naucalpan de Juárez|,"19.427053,-99.256293",100,313695.32
+267,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.446256,-99.147767",68,49051.11
+268,house,|México|Nayarit|Xalisco|,"21.4581695,-104.8877876",220,165172.12
+269,apartment,|México|Distrito Federal|Álvaro Obregón|Torres de Potrero|,"19.333974,-99.240363",70,121178.91
+270,apartment,|México|Estado de México|Huixquilucan|,"19.379597,-99.293808",155,226551.88
+271,house,|México|San Luis Potosí|San Luis Potosí|,"22.139618,-101.032422",354,208111.61
+272,house,|México|Estado de México|Atizapán de Zaragoza|,"19.552184,-99.251489",80,127880.63
+273,apartment,|México|Querétaro|Corregidora|,"20.5365909,-100.4411011",80,44794.13
+274,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.445032,-99.140207",133,59426.13
+275,house,|México|Estado de México|Tlalnepantla de Baz|Tlalnepantla de Baz|,"19.54235,-99.19195",192,125920.69
+276,apartment,|México|Distrito Federal|Álvaro Obregón|Alfonso XIII|,"19.377404,-99.193301",80,91411.04
+277,apartment,|México|Guerrero|Acapulco de Juárez|Acapulco de Juárez|Lomas de Costa Azul|,"16.858816,-99.857628",185,157917.19
+278,house,|México|Sinaloa|Mazatlán|,"23.231522,-106.382439",211,81137.18
+279,house,|México|Yucatán|Mérida|,"21.006756,-89.570984",250,105397.95
+280,apartment,|México|Guerrero|Acapulco de Juárez|,"16.850374,-99.850166",145,81664.04
+281,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,,180,105397.95
+282,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"18.141083,-94.458733",180,110667.85
+283,house,|México|Puebla|Puebla|,"18.989918,-98.2295",299,231820.52
+284,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"25.540674,-103.393252",140,47417.83
+285,house,|México|Yucatán|Mérida|Cholul|,"21.039522,-89.563911",240,138058.14
+286,apartment,|México|Distrito Federal|Coyoacán|,"19.336697,-99.152534",102,187081.37
+287,house,|México|Tabasco|Centro|,,150,97469.99
+288,house,|México|Querétaro|Querétaro|,"20.697427,-100.444385",187,134350.53
+289,apartment,|México|Distrito Federal|Miguel Hidalgo|Santo Tomas|,"19.451872,-99.173522",70,66911.83
+290,house,|México|Estado de México|Toluca|Metepec|,"19.262129,-99.602481",239,132769.93
+291,apartment,|México|Distrito Federal|Tlalpan|,"19.2790911,-99.2114234",72,40645.77
+292,house,|México|Jalisco|Puerto Vallarta|,"20.647398,-105.209682",84,65858.1
+293,house,|México|Tabasco|,"23.634501,-102.552788",151,237145.4
+294,house,|México|Querétaro|Querétaro|,"20.5887932,-100.3898881",177,115937.75
+295,apartment,|México|Puebla|San Andrés Cholula|,"19.028651,-98.258029",116,171231.07
+296,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,150,89040.15
+297,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,,289,129112.49
+298,apartment,|México|Distrito Federal|Azcapotzalco|San Juan Tlihuaca|,"19.493713,-99.204941",60,38812.39
+299,house,|México|Yucatán|Mérida|,,136,72302.99
+300,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.11819,-96.107956",181,129112.49
+301,house,|México|Nuevo León|Monterrey|,,220,263432.41
+302,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"18.147928788,-94.4772926867",175,115937.75
+303,house,|México|Estado de México|Naucalpan de Juárez|,"19.4907003,-99.2553635",370,316193.86
+304,apartment,|México|Nuevo León|Monterrey|,"25.672309,-100.374119",73,106110.57
+305,house,|México|Estado de México|Tlalnepantla de Baz|Tlalnepantla de Baz|,"19.542509,-99.218987",220,150156.47
+306,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.671952,-101.175638",235,171231.07
+307,house,|México|Colima|Villa de Álvarez|Ciudad de Villa de Álvarez|Carlos de La Madrid|,"19.297108,-103.737602",176,62170.05
+308,house,|México|Baja California|Tijuana|Tijuana|Las 2 Palmas|,"32.421957,-117.033513",170,95499.52
+309,house,|México|Morelos|Temixco|,"18.855343,-99.241142",73,36783.88
+310,house,|México|Morelos|Cuernavaca|,"18.939657,-99.20237",185,189716.32
+311,house,|México|Distrito Federal|Álvaro Obregón|Flor de Maria|,"19.345431,-99.209949",200,228450.07
+312,house,|México|Nuevo León|San Pedro Garza García|,"25.660103,-100.410858",127,131747.44
+313,house,|México|Colima|Villa de Álvarez|,,90,41095.45
+314,house,|México|Estado de México|Atizapán de Zaragoza|,"19.564925,-99.218415",110,143834.1
+315,house,|México|Nuevo León|Guadalupe|,"25.652299,-100.266174",281,152790.8
+316,house,|México|Morelos|Cuernavaca|,,210,173906.62
+317,house,|México|San Luis Potosí|Cerro de San Pedro|,,350,137017.34
+318,apartment,|México|Distrito Federal|Venustiano Carranza|,"19.452665,-99.121497",75,34421.81
+319,house,|México|Puebla|San Pedro Cholula|,,213,152263.93
+320,apartment,|México|Guerrero|Acapulco de Juárez|,"16.869995,-99.869568",72,48471.56
+321,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.768602,-93.164162",185,82717.77
+322,house,|México|Hidalgo|Mineral del Monte|,"23.634501,-102.552788",120,63223.78
+323,house,|México|Estado de México|Toluca|,"19.317622,-99.607241",200,158059.45
+324,house,|México|Guerrero|,"16.850374,-99.850166",168,115937.75
+325,apartment,|México|Yucatán|Mérida|,"21.0306572,-89.5945502",144,79048.46
+326,house,|México|Distrito Federal|Benito Juárez|,"19.359798,-99.161675",90,131716.2
+327,house,|México|Distrito Federal|Coyoacán|Campestre Churubusco|,"19.3434226,-99.1359301",182,68492.42
+328,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,255,147522.15
+329,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.4503249,-99.1351802",91,79029.72
+330,house,|México|Tamaulipas|Altamira|,"22.3918646281,-97.9089224339",76,35826.8
+331,apartment,|México|Distrito Federal|Coyoacán|,"19.307417,-99.125191",75,36882.11
+332,house,|México|Durango|Durango|,"24.0277202,-104.6531759",245,92201.34
+333,apartment,|México|Estado de México|Huixquilucan|,"19.374843,-99.293871",120,59711.33
+334,apartment,|México|San Luis Potosí|San Luis Potosí|,"22.1352302,-101.0266343",140,73234.21
+335,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"25.577366,-103.437088",348,155425.12
+336,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.517859,-96.891403",300,142253.5
+337,house,|México|Querétaro|Querétaro|,"20.605692,-100.38488",290,208111.61
+338,apartment,|México|Quintana Roo|Solidaridad|Playa del Carmen|,,80,43740.15
+339,house,|México|San Luis Potosí|San Luis Potosí|,"22.158050728,-100.9284004569",180,50064.02
+340,house,|México|Morelos|Temixco|Brisas|,"18.847519,-99.220529",162,89567.02
+341,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.119549,-96.107643",190,94331.17
+342,house,|México|Distrito Federal|Tlalpan|Jardines en la Montaña|,"19.301835,-99.206377",300,207057.88
+343,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.756552,-93.181732",215,163366.83
+344,house,|México|Morelos|Cuautla|,"18.813505,-98.953514",80,34246.21
+345,house,|México|Campeche|Campeche|,"19.8301251,-90.5349087",160,115937.75
+346,house,|México|Querétaro|Querétaro|,"20.592563,-100.371039",271,179134.04
+347,house,|México|Hidalgo|Tula de Allende|,"20.044181,-99.34648",169,84054.87
+348,house,|México|Nuevo León|Monterrey|,,320,197621.16
+349,apartment,|México|Distrito Federal|Benito Juárez|,"19.396893,-99.152302",80,85899.33
+350,house,|México|Yucatán|Telchac Puerto|Telchac Puerto|,,160,168596.74
+351,house,|México|Jalisco|San Pedro Tlaquepaque|,"20.615292,-103.312843",230,131716.2
+352,house,|México|Guanajuato|León|,"21.202881,-101.679077",167,68492.42
+353,house,|México|Yucatán|Mérida|,"21.0315095,-89.600513",349,200256.11
+354,house,|México|Distrito Federal|Álvaro Obregón|Olivar de los Padres|,"19.33981,-99.216052",272,260798.09
+355,house,|México|Nuevo León|Monterrey|,"25.6773984,-100.3940095",347,292796.2
+356,house,|México|Yucatán|Mérida|,"21.0344135,-89.5978127",305,194986.21
+357,house,|México|Morelos|Cuernavaca|,"18.936026,-99.216217",270,255590.04
+358,house,|México|Chiapas|Jiquipilas|Michoacán|,,72,40578.21
+359,house,|México|Baja California|Mexicali|,,106,67333.32
+360,house,|México|Querétaro|El Marqués|,"20.607178,-100.335754",75,35563.37
+361,house,|México|Guerrero|Acapulco de Juárez|,,80,118544.58
+362,house,|México|Estado de México|Naucalpan de Juárez|,"19.470298,-99.272488",218,255529.44
+363,house,|México|Estado de México|Tlalnepantla de Baz|Tlalnepantla de Baz|,"19.522923,-99.241837",340,250260.79
+364,house,|México|Querétaro|Querétaro|,"20.570164,-100.363823",170,123842.59
+365,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"18.1477847816,-94.4396674633",240,115937.75
+366,house,|México|Distrito Federal|Iztacalco|,"19.399741,-99.115503",100,57287.8
+367,house,|México|Distrito Federal|Xochimilco|,"19.282308,-99.126869",130,119651
+368,apartment,|México|Estado de México|Coacalco de Berriozábal|Coacalco de Berriozabal|,"19.634604,-99.088905",76,34245.11
+369,house,|México|Sinaloa|Mazatlán|,,122,86932.69
+370,house,|México|Morelos|Cuernavaca|,"18.904448,-99.242474",106,105372.96
+371,house,|México|Distrito Federal|Cuauhtémoc|,"19.456544,-99.127136",278,183875.82
+372,house,|México|Querétaro|Querétaro|,"20.726007,-100.442642",285,231875.5
+373,house,|México|Querétaro|Corregidora|,"20.548123,-100.436245",300,200208.63
+374,apartment,|México|Distrito Federal|Benito Juárez|,"19.396705,-99.181902",85,76740.25
+375,house,|México|Querétaro|Querétaro|,"20.6543981,-100.3546346",137,83264.38
+376,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.766762,-93.148401",160,154371.39
+377,house,|México|Morelos|Cuernavaca|,"18.954132,-99.266083",94,55333.92
+378,house,|México|Nuevo León|Monterrey|Mitras Centro|,"25.696475,-100.345717",220,165962.42
+379,apartment,|México|Distrito Federal|Tlalpan|Valle de Tepepan|,"19.270165,-99.152404",80,131400.09
+380,house,|México|Guerrero|,"23.634501,-102.552788",100,50052.15
+381,apartment,|México|Distrito Federal|Benito Juárez|,"19.39912,-99.141464",92,142253.5
+382,house,|México|Estado de México|Toluca|Metepec|San Miguel Totocuitlapilco|,"19.229864,-99.597954",270,231820.52
+383,apartment,|México|Distrito Federal|Benito Juárez|,"19.376589,-99.153107",107,215482.45
+384,house,|México|Yucatán|Mérida|Temozon Norte|,"21.072905,-89.65963",280,110351.66
+385,house,|México|Querétaro|El Marqués|,,198,118572.7
+386,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,,280,41105.2
+387,house,|México|Puebla|San Andrés Cholula|,"19.044477,-98.328011",350,226551.88
+388,apartment,|México|Estado de México|Cuautitlán Izcalli|,"19.6494549,-99.2023662",69,38461.13
+389,apartment,|México|Estado de México|Atizapán de Zaragoza|,"19.60537,-99.233148",60,39146.05
+390,house,|México|Tabasco|Centro|,"17.999552,-92.950018",151,115910.26
+391,house,|México|Puebla|Juan C. Bonilla|,"19.1090862,-98.3289824",160,84318.36
+392,house,|México|Morelos|Cuernavaca|,"18.910368,-99.1996",200,129081.88
+393,house,|México|Jalisco|,"20.775549,-103.691269",300,134350.53
+394,house,|México|Nuevo León|Apodaca|,"25.7671943,-100.2575589",150,35308.31
+395,house,|México|Baja California Sur|La Paz|,"24.168865,-110.306996",330,290434.24
+396,house,|México|Baja California|Tijuana|Tijuana|Fideicomiso el Florido|,"32.457415,-116.88252",102,61643.18
+397,house,|México|Sinaloa|Mazatlán|,,108,96932.59
+398,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,,236,110114.75
+399,house,|México|Querétaro|Querétaro|,"20.726007,-100.442642",200,121705.77
+400,apartment,|México|Oaxaca|Oaxaca de Juárez|,"17.0588513685,-96.749432981",94,51118
+401,house,|México|Estado de México|Atizapán de Zaragoza|,"19.550762,-99.242156",160,111194.84
+402,house,|México|Yucatán|Mérida|Cholul|,"21.0412206815,-89.5549756587",174,82842.79
+403,house,|México|Puebla|Atlixco|,,106,66384.96
+404,apartment,|México|Distrito Federal|Iztapalapa|El Retoño|,"19.373161,-99.130394",69,84298.37
+405,house,|México|Morelos|Yautepec|,"18.917542,-98.963181",210,118572.7
+406,apartment,|México|Nuevo León|San Pedro Garza García|San Pedro Garza García|Los Arcángeles|,"25.657194,-100.340521",110,262378.68
+407,house,|México|San Luis Potosí|San Luis Potosí|,,215,113302.8
+408,house,|México|Morelos|Cuernavaca|,"18.94542,-99.223195",380,289775.66
+409,house,|México|Querétaro|El Marqués|,"20.6113606,-100.3288581",132,86953.31
+410,house,|México|Chiapas|Tuxtla Gutiérrez|,"16.773806,-93.096295",165,71126.75
+411,house,|México|Distrito Federal|Gustavo A. Madero|,"19.493973,-99.130394",300,179239.41
+412,apartment,|México|Quintana Roo|Solidaridad|Playa del Carmen|,"20.626583,-87.078659",145,115437.11
+413,apartment,|México|Nuevo León|San Pedro Garza García|,"25.651072,-100.342773",126,175924.99
+414,house,|México|Distrito Federal|Álvaro Obregón|Lomas de Tarango|,"19.362795,-99.218987",80,46715.31
+415,house,|México|Querétaro|Querétaro|,"20.631845,-100.390495",180,118572.7
+416,house,|México|Nuevo León|García|,"25.637247,-100.382774",194,76395.4
+417,house,|México|Quintana Roo|Benito Juárez|Cancún|Región 500|,"21.138567,-86.842937",185,97469.99
+418,house,|México|Guerrero|Acapulco de Juárez|,"16.874741,-99.889244",300,98787.15
+419,apartment,|México|Distrito Federal|Benito Juárez|,"19.395097,-99.150424",80,53158.18
+420,apartment,|México|Distrito Federal|Azcapotzalco|Industrial San Antonio|,"19.478815,-99.196831",64,76395.4
+421,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.554081,-96.911522",95,38461.13
+422,house,|México|Puebla|Puebla|,,290,316118.9
+423,house,|México|Tamaulipas|Tampico|,"22.276130897,-97.8784418106",232,139652.29
+424,house,|México|Morelos|Cuernavaca|,"18.9611008,-99.2684274",192,173906.62
+425,apartment,|México|Distrito Federal|Gustavo A. Madero|,"19.51918,-99.143403",60,34983.82
+426,apartment,|México|Yucatán|Mérida|,"21.03071,-89.618103",131,77467.49
+427,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.671921,-101.197362",240,97469.99
+428,house,|México|Estado de México|Naucalpan de Juárez|,"19.514929,-99.2542064",356,288721.93
+429,house,|México|Estado de México|Toluca|,"19.295469,-99.692619",150,57968.87
+430,house,|México|Estado de México|Naucalpan de Juárez|,"19.488134,-99.230759",110,138934.25
+431,apartment,|México|Distrito Federal|Coyoacán|,"19.326108,-99.122758",70,49273.54
+432,house,|México|Sonora|Hermosillo|,"29.105133,-110.943916",357,210745.93
+433,house,|México|Morelos|Temixco|,,213,168596.74
+434,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.711031,-101.245743",256,60603.82
+435,house,|México|Nuevo León|Monterrey|Colinas del Huajuco|,"25.5883667,-100.2430415",300,162393.9
+436,house,|México|Baja California Sur|La Paz|,"24.155968,-110.315987",204,135963.36
+437,house,|México|Distrito Federal|Azcapotzalco|,"19.483263,-99.186297",190,102369.83
+438,house,|México|Estado de México|Huixquilucan|Huixquilucan de Degollado|Lomas Anáhuac|,"19.404718,-99.263313",139,252895.12
+439,house,|México|Baja California|Mexicali|,,106,69124.66
+440,house,|México|Chihuahua|Chihuahua|,"28.678531,-106.040439",115,46890.97
+441,house,|México|Yucatán|Mérida|,"21.0064261,-89.6850751",90,60603.82
+442,apartment,|México|Distrito Federal|Benito Juárez|,"23.634501,-102.552788",85,94835.67
+443,house,|México|Estado de México|Ecatepec de Morelos|Ecatepec de Morelos|,"19.580685,-99.047432",70,34254.33
+444,house,|México|Estado de México|Toluca|,,230,142253.5
+445,house,|México|Querétaro|Querétaro|,"20.571299,-100.383032",90,37353.34
+446,house,|México|Yucatán|Mérida|,"20.9904342,-89.6004394",200,79029.72
+447,house,|México|Morelos|Cuernavaca|,"18.953518,-99.272508",300,147522.15
+448,house,|México|Nuevo León|Monterrey|,"25.686357,-100.376106",380,200256.11
+449,house,|México|Distrito Federal|Iztapalapa|,,90,81664.04
+450,house,|México|Baja California|Tijuana|Tijuana|Herradura Sur|,"32.494759,-117.016926",92,51632.75
+451,house,|México|Jalisco|Zapopan|,"20.7540020174,-103.3824715018",290,152790.8
+452,house,|México|Estado de México|Ecatepec de Morelos|Ecatepec de Morelos|,"19.562864,-99.064713",90,52686.48
+453,house,|México|Querétaro|Tequisquiapan|,"20.5285264774,-99.88301754",136,79048.46
+454,house,|México|Querétaro|Querétaro|,,250,160693.77
+455,apartment,|México|San Luis Potosí|San Luis Potosí|,"22.133745,-101.016029",174,143868.21
+456,apartment,|México|Distrito Federal|Tlalpan|Granjas Coapa|,"19.299864,-99.111133",65,135225.12
+457,house,|México|Guanajuato|San Miguel de Allende|,,215,212589.96
+458,house,|México|Estado de México|Nezahualcóyotl|,"19.493069,-99.060346",343,191620.74
+459,house,|México|Querétaro|Tequisquiapan|,,150,63223.78
+460,house,|México|Querétaro|Querétaro|,"20.6536084,-100.3469826",176,110140.86
+461,apartment,|México|Distrito Federal|Benito Juárez|,"19.384724,-99.145619",145,123813.23
+462,house,|México|Jalisco|Tequila|Tequila|Tequila Centro|,"20.883594,-103.839896",100,184402.69
+463,house,|México|Nuevo León|Monterrey|,"25.6866142,-100.3161126",90,242357.82
+464,house,|México|Morelos|Cuautla|,"18.804197,-98.932816",140,51632.75
+465,house,|México|Querétaro|Querétaro|,"20.7047931,-100.4462718",250,150192.08
+466,house,|México|Estado de México|Ecatepec de Morelos|Ecatepec de Morelos|,"19.589786878,-99.0521619915",80,36889.28
+467,house,|México|Puebla|San Andrés Cholula|,"18.972588,-98.282691",202,150894.08
+468,house,|México|Nuevo León|Monterrey|,"25.530777,-100.2071",299,194939.99
+469,house,|México|Morelos|Cuernavaca|,,230,189716.32
+470,house,|México|Querétaro|Querétaro|,"20.593385,-100.361619",100,115910.26
+471,house,|México|Puebla|San Andrés Cholula|,"19.017727,-98.316376",182,108559.89
+472,apartment,|México|Distrito Federal|Miguel Hidalgo|,"19.454332,-99.200287",62,50591.01
+473,house,|México|Quintana Roo|Benito Juárez|Cancún|,"21.139086,-86.84964",200,158096.93
+474,house,|México|Estado de México|Chapultepec|,"19.2030655,-99.5478784",106,38724.56
+475,house,|México|Sinaloa|Mazatlán|,"23.290356,-106.426237",150,93781.94
+476,house,|México|Colima|Villa de Álvarez|,"19.277207,-103.734973",161,52633.79
+477,house,|México|Nuevo León|Monterrey|,"25.7393693814,-100.2269947529",266,144700.85
+478,house,|México|Puebla|San Pedro Cholula|,,210,150719.07
+479,house,|México|Morelos|Cuernavaca|,"18.901708,-99.237779",250,242357.82
+480,house,|México|Puebla|Puebla|,,170,68492.42
+481,apartment,|México|Distrito Federal|Iztacalco|,"19.368808,-99.112954",83,115910.26
+482,house,|México|Yucatán|Mérida|,"21.0369774162,-89.6034273505",175,126214.05
+483,house,|México|Morelos|Atlatlahucan|,"23.634501,-102.552788",270,229186.2
+484,apartment,|México|Distrito Federal|Iztapalapa|,"19.38342,-99.086604",88,100104.31
+485,house,|México|Morelos|Cuernavaca|,"18.93409,-99.254997",145,102738.64
+486,house,|México|Puebla|Puebla|,,220,131747.44
+487,house,|México|Distrito Federal|Álvaro Obregón|,"19.380834,-99.200764",350,161258.87
+488,house,|México|Puebla|San Andrés Cholula|,,261,218648.9
+489,apartment,|México|Chiapas|Tuxtla Gutiérrez|,,102,56374.53
+490,house,|México|Morelos|Yautepec|,"18.886955,-99.062244",68,43202.91
+491,house,|México|Nuevo León|Monterrey|,"25.679226,-100.344032",210,155425.12
+492,apartment,|México|Quintana Roo|Benito Juárez|,,80,167807.03
+493,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.413009,-99.17109",127,289775.66
+494,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.410215,-99.14595",70,44048.85
+495,apartment,|México|Distrito Federal|Benito Juárez|,"19.367424,-99.185753",82,154898.26
+496,apartment,|México|Distrito Federal|Benito Juárez|,,142,306813.45
+497,house,|México|Sinaloa|Mazatlán|,,143,72180.48
+498,house,|México|San Luis Potosí|San Luis Potosí|,"22.0951835008,-100.87474823",172,50157.53
+499,house,|México|Querétaro|Querétaro|,,350,205477.28
+500,apartment,|México|Distrito Federal|Tlalpan|Granjas Coapa|,"19.298168,-99.113106",83,177695.7
+501,apartment,|México|Estado de México|Atizapán de Zaragoza|,"19.5652097,-99.2646998",87,84318.36
+502,house,|México|Chiapas|Jiquipilas|Michoacán|,,180,36880.53
+503,house,|México|Estado de México|Atizapán de Zaragoza|,"19.5527338,-99.2494583",200,92223.21
+504,house,|México|Yucatán|Mérida|Temozon Norte|,"21.0634817,-89.6110378",235,146995.28
+505,house,|México|Tamaulipas|Ciudad Madero|,"22.285725,-97.843597",218,118572.7
+506,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,220,163366.83
+507,house,|México|Querétaro|Corregidora|,"20.5230129,-100.4302641",184,93804.18
+508,apartment,|México|Distrito Federal|Miguel Hidalgo|Anahuac|,"19.440043,-99.176894",79,137017.34
+509,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"25.439536,-100.994925",293,158059.45
+510,apartment,|México|San Luis Potosí|San Luis Potosí|,"22.144705,-101.04092",144,90620.75
+511,house,|México|Yucatán|Mérida|,"20.9959805028,-89.6128177643",374,247421.7
+512,house,|México|Tamaulipas|Altamira|,"22.3286560021,-97.8898514392",140,73778.56
+513,house,|México|Morelos|Emiliano Zapata|,"18.858107,-99.200287",92,64556.24
+514,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.0530826,-96.0588921",200,108007.29
+515,house,|México|Morelos|Cuernavaca|,"18.883513,-99.221881",80,44783.51
+516,house,|México|Morelos|Cuernavaca|,"18.933414,-99.194748",250,292900.92
+517,house,|México|Morelos|Cuernavaca|,"18.935198,-99.232834",180,168596.74
+518,house,|México|Nuevo León|San Nicolás de los Garza|,"25.7385463,-100.3184093",254,139652.29
+519,house,|México|Guerrero|Acapulco de Juárez|,,107,46100.67
+520,apartment,|México|Distrito Federal|Venustiano Carranza|,"19.41275,-99.126007",60,35890.24
+521,apartment,|México|Distrito Federal|Benito Juárez|,"19.364891,-99.148384",78,150830.86
+522,house,|México|Estado de México|Ocoyoacac|,"19.272732,-99.453377",126,68492.42
+523,house,|México|Estado de México|Naucalpan de Juárez|,"19.490576,-99.254997",350,210745.93
+524,house,|México|Querétaro|Corregidora|,"20.5535753,-100.4222725",156,86953.31
+525,house,|México|Querétaro|Querétaro|,"20.572051,-100.406716",227,125920.69
+526,house,|México|Baja California|Tijuana|Tijuana|Fideicomiso el Florido|,"32.457469,-116.882435",102,61643.18
+527,house,|México|Distrito Federal|Iztapalapa|Minerva|,"19.353373,-99.1138",160,106127.01
+528,house,|México|Morelos|Cuernavaca|,,80,47417.83
+529,house,|México|Yucatán|Mérida|Santa Gertrudis Copo|,"21.039522,-89.563911",270,164947.8
+530,house,|México|Jalisco|Chapala|,"20.2959587,-103.1944627",204,94835.67
+531,house,|México|Querétaro|San Juan del Río|,"20.379178,-99.966431",80,34246.21
+532,house,|México|Morelos|Cuautla|,"18.804409,-98.959038",130,47417.83
+533,house,|México|Guanajuato|Salamanca|,"20.5958037462,-101.186433658",195,94858.16
+534,house,|México|Estado de México|Toluca|,,85,39524.23
+535,house,|México|Tamaulipas|Tampico|,"22.272678,-97.883728",350,237145.4
+536,house,|México|Morelos|Cuernavaca|,,180,102763
+537,house,|México|Tamaulipas|Tampico|,"22.309216,-97.89325",109,45848.11
+538,house,|México|Morelos|Emiliano Zapata|,"18.808657,-99.203751",67,34254.33
+539,house,|México|Jalisco|Zapopan|,"20.712604,-103.391146",361,194939.99
+540,house,|México|Nuevo León|San Pedro Garza García|San Pedro Garza García|,"25.6626225,-100.3688142",311,240884.28
+541,house,|México|Puebla|San Andrés Cholula|,"19.059084,-98.286095",243,101445.53
+542,house,|México|Aguascalientes|Aguascalientes|Aguascalientes|Colinas del Rio|,"21.89658,-102.316322",245,78502.86
+543,house,|México|Campeche|Campeche|,"19.8308743,-90.5359003",180,76413.51
+544,house,|México|Estado de México|Naucalpan de Juárez|,"19.491798,-99.262423",150,168596.74
+545,house,|México|Distrito Federal|Gustavo A. Madero|,"19.508428,-99.125896",150,45057.62
+546,house,|México|Chihuahua|Chihuahua|,"28.70466,-106.089596",78,51632.75
+547,apartment,|México|Distrito Federal|Miguel Hidalgo|,"19.454332,-99.200287",90,53832.41
+548,house,|México|Puebla|Puebla|Puebla (Heroica Puebla)|Zona Cementos Atoyac|,"19.077675,-98.225566",175,118544.58
+549,house,|México|Morelos|Yautepec|,"23.634501,-102.552788",160,99577.45
+550,house,|México|Puebla|Puebla|,,151,99442.97
+551,house,|México|Guanajuato|Guanajuato|,,206,134909.38
+552,house,|México|Morelos|Yautepec|Oacalco|,"18.922282,-99.04435",70,46469.47
+553,house,|México|Chiapas|Tuxtla Gutiérrez|Tuxtla Gutiérrez|Calvarium|,"16.742777,-93.119011",140,73778.56
+554,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"20.945961,-97.389905",200,289775.66
+555,house,|México|San Luis Potosí|San Luis Potosí|,"22.193162,-101.005431",80,39514.86
+556,apartment,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.119549,-96.107643",93,76413.51
+557,house,|México|Estado de México|Naucalpan de Juárez|,"19.4953683665,-99.2584598064",140,68508.67
+558,house,|México|Quintana Roo|Benito Juárez|,"21.139641,-86.879738",100,36880.53
+559,house,|México|Querétaro|Querétaro|,"20.659601,-100.442467",301,274034.68
+560,house,|México|Yucatán|Mérida|,"21.3103259143,-89.248380661",325,187081.37
+561,house,|México|Querétaro|Querétaro|,,170,110641.61
+562,apartment,|México|Distrito Federal|Benito Juárez|,"19.393257,-99.157113",100,71653.61
+563,house,|México|Baja California|Tijuana|,,61,38461.13
+564,house,|México|Yucatán|Mérida|Dzitya|,"21.072905,-89.65963",190,97493.1
+565,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"20.9475017,-97.3631926",110,67860.19
+566,house,|México|Estado de México|Zinacantepec|,,72,40568.59
+567,house,|México|Nuevo León|San Nicolás de los Garza|,"25.721457,-100.228301",190,88513.29
+568,house,|México|Estado de México|Nezahualcóyotl|,"19.406092,-99.011968",177,80083.45
+569,house,|México|San Luis Potosí|San Luis Potosí|,"22.125832,-101.035118",197,147557.13
+570,house,|México|Yucatán|Mérida|,"21.023252,-89.614571",320,150192.08
+571,house,|México|Estado de México|Toluca|,"19.31673,-99.581169",80,47944.7
+572,house,|México|Querétaro|Querétaro|,"20.647322,-100.479441",82,36248.3
+573,house,|México|Puebla|Puebla|,,235,173865.39
+574,house,|México|Estado de México|Tecámac|Tecamac de Felipe Villanueva|,"19.7100885,-98.9659399",99,75783.82
+575,apartment,|México|Distrito Federal|Gustavo A. Madero|Vallejo|,"19.462951,-99.125888",208,131716.2
+576,house,|México|Yucatán|Mérida|Dzitya|,"21.072905,-89.65963",290,126477.54
+577,house,|México|Tamaulipas|Tampico|,"22.3140373,-97.8800254",178,51644.99
+578,house,|México|Jalisco|Tlajomulco de Zúñiga|Tlajomulco de Zúñiga|,"20.547053,-103.47907",340,262440.91
+579,house,|México|Tlaxcala|Tlaxcala|,"19.308845,-98.214439",85,35826.8
+580,apartment,|México|Chiapas|Tuxtla Gutiérrez|,"16.745515,-93.15228",102,46364.1
+581,house,|México|Nayarit|Tepic|,,75,63238.77
+582,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.704245,-101.165592",150,94835.67
+583,apartment,|México|Estado de México|Cuautitlán Izcalli|,,97,89588.26
+584,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"25.525183,-103.377502",104,33192.48
+585,house,|México|San Luis Potosí|San Luis Potosí|,"22.136711,-101.041163",270,163328.09
+586,apartment,|México|Yucatán|Mérida|Santa Gertrudis Copo|,"21.039522,-89.563911",119,115814.11
+587,house,|México|Estado de México|Ixtapan de la Sal|Ixtapan de la Sal|,"18.831146,-99.675944",125,73761.07
+588,house,|México|Querétaro|Corregidora|,"20.558271,-100.42942",139,97469.99
+589,house,|México|Yucatán|Mérida|,,325,167582.75
+590,house,|México|Chiapas|Jiquipilas|Michoacán|,,260,143307.23
+591,house,|México|Guanajuato|León|,"21.178095,-101.708252",360,178607.18
+592,house,|México|Nuevo León|Monterrey|,,300,187037.01
+593,apartment,|México|Distrito Federal|Iztacalco|,"19.403794,-99.155899",70,54235.15
+594,house,|México|Yucatán|Mérida|,,346,191357.3
+595,house,|México|Querétaro|Corregidora|,"20.543869,-100.414032",150,51105.88
+596,apartment,|México|Distrito Federal|Coyoacán|Campestre Churubusco|,"19.343424,-99.135933",84,115910.26
+597,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.532236,-96.94104",180,79029.72
+598,house,|México|Morelos|Cuernavaca|,,196,94858.16
+599,house,|México|Jalisco|Zapopan|,"20.755376,-103.39302",120,71143.62
+600,apartment,|México|Yucatán|Mérida|,"21.008295,-89.591019",142,91169.23
+601,apartment,|México|Distrito Federal|Benito Juárez|,"19.382649,-99.143384",65,44178.77
+602,house,|México|Distrito Federal|Álvaro Obregón|,"23.634501,-102.552788",200,152790.8
+603,house,|México|Tamaulipas|Tampico|,"22.268972,-97.860939",200,121207.64
+604,house,|México|Guerrero|Acapulco de Juárez|,"16.856389,-99.913115",131,47417.83
+605,house,|México|Yucatán|Mérida|,,163,73778.56
+606,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"19.1279472004,-96.1076366901",200,104319.23
+607,apartment,|México|Puebla|Puebla|,"19.076612,-98.236336",93,57884.47
+608,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,,221,97493.1
+609,house,|México|Querétaro|San Juan del Río|,"20.391528,-99.981438",202,121207.64
+610,house,|México|Quintana Roo|Benito Juárez|Cancún|,"21.1661723,-86.8251719",370,200256.11
+611,house,|México|Baja California|Tijuana|,"32.46906,-116.81963",86,52605.29
+612,apartment,|México|Yucatán|Mérida|Temozon Norte|,"21.0634817,-89.6110378",63,44794.13
+613,house,|México|Puebla|San Andrés Cholula|,,286,194149.69
+614,apartment,|México|Baja California|Tijuana|Tijuana|San Antonio del Mar|,"23.634501,-102.552788",95,84313.09
+615,house,|México|Querétaro|Querétaro|Colonia San Francisco|,"20.745667,-100.455109",290,236091.42
+616,apartment,|México|Tamaulipas|Tampico|,"22.292006,-97.866714",128,85878.96
+617,house,|México|Puebla|Puebla|,"19.061148,-98.248372",120,59535.72
+618,house,|México|Morelos|Cuernavaca|,"18.969536,-99.215979",180,81664.04
+619,house,|México|Estado de México|San Mateo Atenco|San Mateo Atenco|,"19.300028,-99.566057",198,53666.55
+620,house,|México|Yucatán|Mérida|,"20.999418,-89.619278",377,224339.55
+621,apartment,|México|Distrito Federal|Benito Juárez|,"19.401507,-99.14682",92,67438.69
+622,house,|México|Estado de México|Coacalco de Berriozábal|Coacalco de Berriozabal|,"19.663315,-99.103287",100,80083.45
+623,apartment,|México|Yucatán|Mérida|,"21.030668,-89.599258",82,62696.91
+624,house,|México|Guerrero|Acapulco de Juárez|,,120,118544.58
+625,house,|México|Colima|Colima|,"19.255166,-103.680325",105,46627.53
+626,house,|México|Morelos|Xochitepec|,"18.743973,-99.254183",79,42941.43
+627,house,|México|Yucatán|Mérida|,"21.037875,-89.648252",123,41095.45
+628,apartment,|México|Quintana Roo|Benito Juárez|Cancún|,"21.1495343889,-86.8515973089",79,80015.91
+629,house,|México|Morelos|Cuernavaca|,"18.951663,-99.218298",376,263432.41
+630,apartment,|México|Distrito Federal|Benito Juárez|,"19.381078,-99.186714",70,85668.22
+631,house,|México|Sinaloa|Culiacán|,"24.8225157463,-107.4352383614",105,55847.67
+632,house,|México|Puebla|San Andrés Cholula|Lomas de Angelópolis|,,200,143341.22
+633,house,|México|Estado de México|Tlalnepantla de Baz|Tlalnepantla de Baz|,"19.522923,-99.241837",200,229240.55
+634,house,|México|Querétaro|Querétaro|,"20.693433,-100.446219",160,121178.91
+635,house,|México|Estado de México|Ecatepec de Morelos|Ecatepec de Morelos|Jardines de Santa Clara|,"19.545727,-99.039146",133,67438.69
+636,house,|México|Chihuahua|Chihuahua|,"28.672886,-106.09304",250,63238.77
+637,house,|México|Guanajuato|San Miguel de Allende|,"20.9144491,-100.745235",100,127584.22
+638,house,|México|Puebla|Cuautlancingo|,"23.634501,-102.552788",113,57955.13
+639,house,|México|Querétaro|Querétaro|,"20.618279,-100.346985",130,99601.06
+640,house,|México|San Luis Potosí|San Luis Potosí|,"22.193523,-101.0019",211,165467.83
+641,house,|México|Yucatán|Mérida|,"21.030771,-89.646347",200,77994.48
+642,apartment,|México|Chiapas|San Cristóbal de las Casas|,"16.747116,-92.651844",84,52686.48
+643,house,|México|Estado de México|San Mateo Atenco|San Mateo Atenco|,"19.276849,-99.546473",179,94203.43
+644,house,|México|Quintana Roo|Benito Juárez|Cancún|,"21.082655,-86.857162",251,187037.01
+645,house,|México|Distrito Federal|Iztapalapa|,"19.3845016369,-99.0904824436",115,81683.41
+646,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.446829,-99.159454",65,163064.66
+647,house,|México|Yucatán|Mérida|,"20.99947,-89.642815",169,55333.92
+648,apartment,|México|Nuevo León|San Pedro Garza García|,,80,300365.64
+649,apartment,|México|Distrito Federal|Coyoacán|,,74,54793.94
+650,house,|México|Baja California|Tijuana|,,61,38461.13
+651,house,|México|Aguascalientes|Aguascalientes|Cañada Honda|,"21.99782,-102.191307",350,193359.39
+652,house,|México|Nuevo León|San Nicolás de los Garza|,"25.714615,-100.230576",309,158096.93
+653,house,|México|Estado de México|Toluca|Metepec|,"19.286575,-99.597733",200,72865.4
+654,house,|México|Durango|Durango|,"24.024288,-104.615791",98,36090.24
+655,house,|México|Estado de México|Ecatepec de Morelos|Ecatepec de Morelos|,"19.537234,-99.025536",83,45447.36
+656,house,|México|Distrito Federal|Iztapalapa|Colonial Iztapalapa|,"19.343042,-99.054777",275,167543.01
+657,house,|México|Querétaro|Querétaro|,"20.594322,-100.365929",286,183875.82
+658,house,|México|Chihuahua|Chihuahua|,,251,105397.95
+659,house,|México|Jalisco|Puerto Vallarta|,"20.66976,-105.204857",70,35299.94
+660,house,|México|Sinaloa|Mazatlán|,"23.256596,-106.415812",190,55320.8
+661,house,|México|Estado de México|Tlalnepantla de Baz|Tlalnepantla de Baz|San José Ixhuatepec|,"19.524088,-99.096736",75,70757.94
+662,house,|México|Sonora|Cajeme|Ciudad Obregón|Otancahui|,"27.492267,-109.958231",236,115910.26
+663,apartment,|México|Distrito Federal|Benito Juárez|,"19.394358,-99.177444",195,289775.66
+664,house,|México|Nuevo León|Santa Catarina|,"25.7075214,-100.4578949",150,110969.16
+665,house,|México|Chihuahua|Chihuahua|,"28.6329957,-106.0691004",274,173906.62
+666,apartment,|México|Puebla|San Andrés Cholula|,,212,293358.34
+667,house,|México|Tamaulipas|Tampico|,"22.286442,-97.889847",81,44256.64
+668,house,|México|Morelos|Cuernavaca|,"18.926889,-99.218126",186,118544.58
+669,apartment,|México|Distrito Federal|Tlalpan|,"19.287568,-99.145853",100,159320.71
+670,house,|México|Morelos|Temixco|,"18.835637,-99.252857",200,63223.78
+671,house,|México|Puebla|San Pedro Cholula|,,243,153317.66
+672,apartment,|México|Yucatán|Telchac Puerto|,,200,252895.12
+673,house,|México|Nuevo León|Monterrey|,"25.723516,-100.393311",350,252895.12
+674,house,|México|Chiapas|Jiquipilas|Michoacán|,"19.750508,-101.181947",90,37934.26
+675,apartment,|México|Puebla|Puebla|Guadalupe|,"19.058884,-98.260885",104,92201.34
+676,house,|México|Distrito Federal|Azcapotzalco|,"19.477827,-99.216217",229,157690.64
+677,apartment,|México|Morelos|Cuernavaca|,"18.963312,-99.214456",76,43729.78
+678,apartment,|México|Distrito Federal|Benito Juárez|,"19.393656,-99.132304",60,84845.35
+679,apartment,|México|Estado de México|Cuautitlán Izcalli|,"19.607218,-99.194926",100,43202.91
+680,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,,195,97469.99
+681,house,|México|Estado de México|Calimaya|,"19.1617587,-99.6178249",85,57968.87
+682,house,|México|Guerrero|,"16.7795417527,-99.798010105",275,316118.9
+683,house,|México|Yucatán|Mérida|Cholul|,"21.0411724,-89.5550539",195,91632.19
+684,house,|México|Tabasco|Centro|,"18.00557,-92.959735",205,88513.29
+685,apartment,|México|Distrito Federal|Cuauhtémoc|,"19.441809,-99.156423",80,65120.49
+686,house,|México|Hidalgo|Pachuca de Soto|,"20.124367,-98.735725",150,92223.21
+687,house,|México|Veracruz de Ignacio de la Llave|Veracruz|,"20.9673656268,-97.3916879296",120,44783.51
+688,apartment,|México|Distrito Federal|Benito Juárez|,"19.391819,-99.188639",84,71653.61
+689,apartment,|México|Distrito Federal|Benito Juárez|,"19.375412,-99.144234",60,105372.96
+690,house,|México|Morelos|Cuernavaca|,"23.634501,-102.552788",180,63223.78
+691,apartment,|México|Distrito Federal|Azcapotzalco|,"19.496076,-99.204251",60,36260.68
+692,house,|México|Sinaloa|Culiacán|,"24.8053549677,-107.4623677164",95,44794.13
+693,apartment,|México|Distrito Federal|Tlalpan|,"19.309196,-99.219505",110,121863.83
+694,house,|México|Morelos|Temixco|Temixco Centro|,"18.842861,-99.225906",120,105372.96
+695,house,|México|Veracruz de Ignacio de la Llave|Playa Vicente|Coahuila|,"25.51485,-103.389699",140,51632.75
+696,house,|México|Jalisco|Tlajomulco de Zúñiga|Tlajomulco de Zúñiga|,"20.532264,-103.484418",175,121178.91
+697,house,|México|Morelos|Jiutepec|,"18.9289862,-99.1802147",100,47417.83
+698,house,|México|Yucatán|Mérida|,"21.0284038368,-89.6530058049",81,39524.23
+699,house,|México|San Luis Potosí|San Luis Potosí|,"22.11830417,-101.0321938992",360,245050.24
+700,house,|México|Estado de México|Toluca|Metepec|,"19.233201,-99.558519",115,110667.85
