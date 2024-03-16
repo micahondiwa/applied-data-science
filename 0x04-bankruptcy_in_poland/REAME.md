@@ -1,1 +1,0 @@
-# Bankruptcy in Poland
