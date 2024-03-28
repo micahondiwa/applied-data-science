@@ -1,5 +1,7 @@
 # Applied Data Science
 
+** Projects**
+
 - Housing in Mexico
 - Housing in Buenos Aires
 - Air Quality in Nairobi
