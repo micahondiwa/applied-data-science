@@ -21,3 +21,4 @@ def make_predictions(data_filepath, model_filepath):
     # Put predictions into Series with name "bankrupt", and same index as X_test
     y_test_pred = pd.Series(y_test_pred, index=X_test.index, name="bankrupt")
     return y_test_pred
+    
