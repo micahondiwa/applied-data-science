@@ -1,0 +1,49 @@
+﻿_id,createdAt,firstName,lastName,email,birthday,gender,highestDegreeEarned,countryISO2,admissionsQuiz,inexperiment,group,tag
+661405a51be97399304f8328,04/05/2022 21:04,Thomas,Richards,thomas.richards55@gmall.com,13/12/2000,male,Bachelor's degree,AE,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f81b3,04/05/2022 08:29,Ronald,Sachs,ronald.sachs53@yahow.com,26/11/1996,male,High School or Baccalaureate,ID,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7652,04/05/2022 13:11,Chester,Mcconnell,chester.mcconnell50@gmall.com,23/06/1995,male,High School or Baccalaureate,NG,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7c51,04/05/2022 21:56,Cedric,Rundell,cedric.rundell4@microsift.com,23/07/1991,male,Some College (1-3 years),ET,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7dda,04/05/2022 03:26,William,Rzeczycki,william.rzeczycki89@gmall.com,14/04/1996,male,Bachelor's degree,PK,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f80f0,04/05/2022 09:08,Joseph,Batts,joseph.batts21@microsift.com,18/11/1998,male,Some College (1-3 years),NG,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7263,04/05/2022 01:04,Lindsay,Schwartz,lindsay.schwartz9@hotmeal.com,26/05/1998,female,Bachelor's degree,NG,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f72a5,04/05/2022 22:49,Adam,Kincaid,adam.kincaid3@hotmeal.com,18/11/2000,male,Master's degree,NG,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f8095,04/05/2022 20:48,Floyd,Dixon,floyd.dixon17@microsift.com,11/07/1990,male,Bachelor's degree,NG,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f739a,04/05/2022 10:31,Shaun,Harris,shaun.harris10@yahow.com,24/05/1992,male,Bachelor's degree,NG,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7a52,04/05/2022 04:21,Richard,Thao,richard.thao56@hotmeal.com,07/02/1998,male,Some College (1-3 years),IN,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f77ef,04/05/2022 21:09,Holly,Reid,holly.reid75@hotmeal.com,29/10/1999,female,High School or Baccalaureate,PK,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f8259,04/05/2022 06:04,Ross,Ng,ross.ng19@hotmeal.com,27/09/1996,male,Bachelor's degree,US,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7632,04/05/2022 17:42,Scott,Rider,scott.rider95@yahow.com,16/10/1978,male,Bachelor's degree,IN,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f8040,04/05/2022 18:18,Leo,Carleton,leo.carleton15@hotmeal.com,10/06/1973,male,Bachelor's degree,MG,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f768f,04/05/2022 15:23,Hazel,Gannon,hazel.gannon92@gmall.com,13/06/1995,female,Master's degree,LR,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7a38,04/05/2022 10:33,Rogelio,Walker,rogelio.walker15@hotmeal.com,29/08/2002,male,Bachelor's degree,KE,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f83ca,04/05/2022 21:40,Neil,Haran,neil.haran18@yahow.com,03/10/1992,male,Doctorate (e.g. PhD),ZM,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f79b4,04/05/2022 19:12,Juan,Smith,juan.smith64@microsift.com,30/08/1998,male,High School or Baccalaureate,PK,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f76a4,04/05/2022 08:25,Timothy,Mcewen,timothy.mcewen55@microsift.com,07/06/1990,male,Bachelor's degree,PK,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f8099,04/05/2022 11:01,Jamie,Suben,jamie.suben34@yahow.com,24/09/1998,female,Bachelor's degree,ZA,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f84e0,04/05/2022 15:55,Catherine,Caponigro,catherine.caponigro77@hotmeal.com,21/03/1983,female,Bachelor's degree,PK,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f795c,04/05/2022 23:24,Kelli,Johnston,kelli.johnston45@yahow.com,02/05/2004,female,Bachelor's degree,PK,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f7ddd,04/05/2022 22:08,George,Johnson,george.johnson34@yahow.com,23/10/1992,male,Bachelor's degree,IQ,incomplete,TRUE,no email (control),ab-test
+661405a51be97399304f82d6,04/05/2022 23:33,Fred,Shulz,fred.shulz12@yahow.com,06/07/1982,male,Bachelor's degree,SZ,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f8428,04/05/2022 23:57,Thomas,Brackins,thomas.brackins42@yahow.com,04/06/1979,male,Some College (1-3 years),KE,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7ff0,04/05/2022 03:39,Roger,Baker,roger.baker5@gmall.com,12/08/1990,male,Master's degree,GH,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7688,04/05/2022 22:34,Jason,Fazio,jason.fazio66@yahow.com,07/07/1996,male,High School or Baccalaureate,ET,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7ffe,04/05/2022 02:14,Curt,Gardner,curt.gardner65@gmall.com,03/01/2002,male,Some College (1-3 years),US,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f780b,04/05/2022 18:53,Christopher,Louque,christopher.louque2@microsift.com,06/09/1993,male,Bachelor's degree,PH,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7f03,04/05/2022 15:59,Fernando,Burns,fernando.burns55@microsift.com,25/01/1999,male,Some College (1-3 years),NP,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f75b0,04/05/2022 23:48,Bruce,Gabrielsen,bruce.gabrielsen41@microsift.com,25/11/1989,male,Bachelor's degree,IN,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f82e6,04/05/2022 20:49,David,Duncan,david.duncan11@microsift.com,11/06/2001,male,High School or Baccalaureate,AM,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f740b,04/05/2022 13:41,Michael,Shuman,michael.shuman46@hotmeal.com,29/10/1990,male,High School or Baccalaureate,NP,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7d31,04/05/2022 13:36,Eliza,Keith,eliza.keith11@microsift.com,29/12/2001,female,Bachelor's degree,IN,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f84c0,04/05/2022 18:06,James,Little,james.little34@microsift.com,02/02/1987,male,Some College (1-3 years),NG,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f831c,04/05/2022 01:09,Ada,Tibbetts,ada.tibbetts27@yahow.com,15/03/1993,female,Bachelor's degree,AL,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f820c,04/05/2022 01:16,Howard,Jay,howard.jay50@hotmeal.com,01/08/1984,male,Bachelor's degree,ZM,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7695,04/05/2022 03:58,Tony,Hammons,tony.hammons84@hotmeal.com,26/05/2000,male,High School or Baccalaureate,PA,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7b5c,04/05/2022 09:22,Kenneth,Tucker,kenneth.tucker22@gmall.com,05/04/1998,male,Doctorate (e.g. PhD),VI,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7e2b,04/05/2022 16:01,Leigh,Sun,leigh.sun46@hotmeal.com,12/01/1996,female,High School or Baccalaureate,DZ,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f78c8,04/05/2022 02:16,Jerry,Olds,jerry.olds41@hotmeal.com,01/12/1990,male,Bachelor's degree,NG,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7b2e,04/05/2022 12:12,Andrew,Diaz,andrew.diaz2@gmall.com,04/11/1997,male,Bachelor's degree,IN,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7624,04/05/2022 12:31,Paige,Peery,paige.peery96@gmall.com,22/11/1996,female,Bachelor's degree,SO,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f776c,04/05/2022 10:56,Linda,Farley,linda.farley4@microsift.com,24/09/2000,female,Bachelor's degree,ZA,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f7b54,04/05/2022 06:12,Nestor,Bien,nestor.bien80@yahow.com,04/03/1994,male,Doctorate (e.g. PhD),NG,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f84a1,04/05/2022 02:17,William,Leon,william.leon86@yahow.com,23/08/1999,male,Bachelor's degree,US,incomplete,TRUE,email (treatment),ab-test
+661405a51be97399304f78eb,04/05/2022 22:41,Elizabeth,Bonnet,elizabeth.bonnet15@gmall.com,26/09/1992,female,Some College (1-3 years),MZ,incomplete,TRUE,email (treatment),ab-test
