@@ -4,7 +4,7 @@ from jupyter_dash import JupyterDash
 from dash import Dash
 
 # Task 7.4.1
-app = JupyterDash(__name__)
+app = Dash(__name__)
 # Task 7.4.8
 gb = ...
 # Task 7.4.13
