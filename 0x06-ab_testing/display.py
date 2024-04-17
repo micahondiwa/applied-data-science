@@ -1,6 +1,7 @@
 from business import GraphBuilder, StatsBuilder
 from dash import Input, Output, State, dcc, html
 from jupyter_dash import JupyterDash
+from dash import Dash
 
 # Task 7.4.1
 app = JupyterDash(__name__)
