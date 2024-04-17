@@ -3,14 +3,21 @@ from dash import Input, Output, State, dcc, html
 from jupyter_dash import JupyterDash
 
 # Task 7.4.1
-app = ...
+app = JupyterDash(__name__)
 # Task 7.4.8
 gb = ...
 # Task 7.4.13
 sb = ...
 
 # Tasks 7.4.1, 7.4.2, 7.4.3, 7.4.11, 7.4.14, 7.4.16
-app.layout = ...
+app.layout = html.Div(
+    [
+        html.H1("Application Demographics"),
+        html.H1("Experiment"),
+        html.H1("Results")
+    ]
+
+)
 
 
 # Tasks 7.4.4, 7.4.8, 7.4.9, 7.4.10
