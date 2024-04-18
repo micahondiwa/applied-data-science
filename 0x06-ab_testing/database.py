@@ -25,6 +25,7 @@ class MongoRepository:
         collection : str, optional
             By default "ds-applicants"
         """
+        self.collection=client[db][collection]
         
 
     def get_nationality_value_counts():
