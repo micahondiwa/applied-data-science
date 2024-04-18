@@ -46,12 +46,12 @@ class MongoRepository:
         # Get result from database
         result = ds_app.aggregate(
             [
-        {
-            "$group": {
-                "_id": "$countryISO2","count": {"$count": {}}
-                }
-                }
-            ]
+                {
+                    "$group": {
+                        "_id": "$countryISO2","count": {"$count": {}}
+                        }
+                    }
+                ]
         )
         # Store result in DataFrame
         df_nationality = pd.DataFrame(result).rename({"_id":"country_iso2"}, axis="columns").sort_values("count")
