@@ -14,6 +14,11 @@ sb = ...
 app.layout = html.Div(
     [
         html.H1("Application Demographics"),
+        dcc.Dropdown(
+            options=["Nationality", "Age", "Education"],
+            value="Nationality",
+            id="demo-plots-dropdown"
+        ),
         html.H1("Experiment"),
         html.H1("Results")
     ]
