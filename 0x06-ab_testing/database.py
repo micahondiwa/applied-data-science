@@ -61,7 +61,8 @@ class MongoRepository:
         df_nationality["country_name"] = cc.convert(df_nationality["country_iso2"], to="name_short")
         df_nationality["country_iso3"] = cc.convert(df_nationality["country_iso2"], to="ISO3")
         # Transform frequency count to pct
-        
+        if normalize:
+            
 
         # Return DataFrame
         pass
