@@ -14,7 +14,7 @@ from statsmodels.stats.power import GofChisquarePower
 class GraphBuilder:
     """Methods for building Graphs."""
 
-    def __init__(self):
+    def __init__(self, repo=MongoRepository()):
 
         """init
 
