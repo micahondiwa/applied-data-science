@@ -7,7 +7,7 @@ from database import MongoRepository
 
 from statsmodels.stats.contingency_tables import Table2x2
 from statsmodels.stats.power import GofChisquarePower
-#from teaching_tools.ab_test.experiment import Experiment
+from teaching_tools.ab_test.experiment import Experiment
 
 
 # Tasks 7.4.7, 7.4.9, 7.4.10, 7.4.19
@@ -36,17 +36,14 @@ class GraphBuilder:
         # Get nationality counts from database
         df_nationality = self.repo.get_nationality_value_counts(normalize=True)
         # Create Figure
-        def build_nat_choropleth():
-                fig = px.choropleth(
-                data_frame=df_nationality,
-                locations="country_iso3",
-                color="count_pct",
-                projection="natural earth",
-                color_continuous_scale=px.colors.sequential.Oranges,
-                title="DS Applicants Nationality"
+        fig = px.choropleth(
+            data_frame=df_nationality,
+            locations="country_iso3",
+            color="count_pct",
+            projection="natural earth",
+            color_continuous_scale=px.colors.sequential.Oranges,
+            title="DS Applicants Nationality"
             )
-        
-        # Return Figure
         return fig
 
     def build_age_hist():
