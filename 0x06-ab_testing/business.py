@@ -34,7 +34,7 @@ class GraphBuilder:
         Figure
         """
         # Get nationality counts from database
-        
+        df_nationality = self.repo.get_nationality_value_counts(normalize=True)
         # Create Figure
         
         # Return Figure
