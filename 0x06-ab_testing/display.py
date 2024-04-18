@@ -28,7 +28,10 @@ app.layout = html.Div(
 
 
 # Tasks 7.4.4, 7.4.8, 7.4.9, 7.4.10
-
+@app.callback(
+    Output(),
+    Input()
+)
 def display_demo_graph(graph_name):
     """Serves applicant demograhic visualization.
 
