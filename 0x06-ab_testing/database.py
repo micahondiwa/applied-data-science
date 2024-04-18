@@ -48,15 +48,13 @@ class MongoRepository:
             [
         {
             "$group": {
-                "_id": "$countryISO2","count": {"$count": {}} 
+                "_id": "$countryISO2","count": {"$count": {}}
                 }
-            }
-        ]
-    )
-print("result type:", type(result))
-        
-        
+                }
+            ]
+        )
         # Store result in DataFrame
+        df_nationality = pd.DataFrame(result).rename({"_id":"country_iso2"}, axis="columns").sort_values("count")
         
         # Add country names and ISO3
         
