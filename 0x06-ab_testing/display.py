@@ -19,6 +19,7 @@ app.layout = html.Div(
             value="Nationality",
             id="demo-plots-dropdown"
         ),
+        html.Div(id="demo-plots-display"),
         html.H1("Experiment"),
         html.H1("Results")
     ]
