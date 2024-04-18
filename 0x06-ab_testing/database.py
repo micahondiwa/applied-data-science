@@ -7,7 +7,12 @@ from pymongo import MongoClient
 class MongoRepository:
     """For connecting and interacting with MongoDB."""
 
-    def __init__():
+    def __init__(
+        self,
+        client=MongoClient(host="localhost", port=27017),
+        db="wqu-abtest",
+        collection="ds-applicants"
+    ):
     
         """init
 
