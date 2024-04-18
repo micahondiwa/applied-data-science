@@ -44,6 +44,17 @@ class MongoRepository:
             'country_iso3'.
         """
         # Get result from database
+        result = ds_app.aggregate(
+            [
+        {
+            "$group": {
+                "_id": "$countryISO2","count": {"$count": {}} 
+                }
+            }
+        ]
+    )
+print("result type:", type(result))
+        
         
         # Store result in DataFrame
         
