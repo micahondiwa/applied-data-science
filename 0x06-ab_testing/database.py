@@ -63,9 +63,8 @@ class MongoRepository:
         # Transform frequency count to pct
         if normalize:
             df_nationality["count_pct"] = (df_nationality["count"]/df_nationality["count"].count()) * 100
-
         # Return DataFrame
-        pass
+        return df_nationality
 
     def get_ages():
 
