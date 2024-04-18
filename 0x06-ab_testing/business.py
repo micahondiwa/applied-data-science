@@ -45,8 +45,9 @@ class GraphBuilder:
             color_continuous_scale=px.colors.sequential.Oranges,
             title="DS Applicants Nationality"
         )
-        return fig
+        
         # Return Figure
+        return fig
         pass
 
     def build_age_hist():
