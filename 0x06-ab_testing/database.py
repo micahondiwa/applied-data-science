@@ -28,7 +28,7 @@ class MongoRepository:
         self.collection=client[db][collection]
         
 
-    def get_nationality_value_counts():
+    def get_nationality_value_counts(self, normalize=True):
     
         """Return nationality value counts.
 
