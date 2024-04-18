@@ -57,6 +57,8 @@ class MongoRepository:
         df_nationality = pd.DataFrame(result).rename({"_id":"country_iso2"}, axis="columns").sort_values("count")
         
         # Add country names and ISO3
+        cc = CountryConverter()
+        df_nationality["country_name"] = cc.convert(df_nationality["country_iso2"], to="name_short")
         
         # Transform frequency count to pct
         
