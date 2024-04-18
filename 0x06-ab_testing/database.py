@@ -44,7 +44,7 @@ class MongoRepository:
             'country_iso3'.
         """
         # Get result from database
-        result = ds_app.aggregate(
+        result = self.collection.aggregate(
             [
                 {
                     "$group": {
