@@ -23,7 +23,7 @@ class GraphBuilder:
         repo : MongoRepository, optional
             Data source, by default MongoRepository()
         """
-        pass
+        self.repo = repo
 
     def build_nat_choropleth():
 
