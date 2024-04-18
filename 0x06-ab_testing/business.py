@@ -36,19 +36,18 @@ class GraphBuilder:
         # Get nationality counts from database
         df_nationality = self.repo.get_nationality_value_counts(normalize=True)
         # Create Figure
-        def build_nat_choropleth():
-            fig = px.choropleth(
-            data_frame=df_nationality,
-            locations="country_iso3",
-            color="count_pct",
-            projection="natural earth",
-            color_continuous_scale=px.colors.sequential.Oranges,
-            title="DS Applicants Nationality"
-        )
+        def build_nat_choropleth(fig):
+                fig = px.choropleth(
+                data_frame=df_nationality,
+                locations="country_iso3",
+                color="count_pct",
+                projection="natural earth",
+                color_continuous_scale=px.colors.sequential.Oranges,
+                title="DS Applicants Nationality"
+            )
         
         # Return Figure
         return fig
-        pass
 
     def build_age_hist():
 
