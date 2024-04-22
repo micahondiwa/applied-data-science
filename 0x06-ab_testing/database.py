@@ -188,7 +188,7 @@ class MongoRepository:
         data = pd.crosstab(
             index=df["group"],
             columns=df["admissionsQuiz"],
-            normalize=False
-        )
+            normalize=True
+        ).round(3)
         # Return cross-tab
         return data
