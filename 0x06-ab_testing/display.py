@@ -59,7 +59,10 @@ def display_demo_graph(graph_name):
 
 
 # Task 7.4.13
-
+@app.callback(
+    Output("effect-size-display", "children"),
+    Input("effect-size-slider", "value")
+)
 def display_group_size(effect_size):
     """Serves information about required group size.
 
@@ -74,8 +77,10 @@ def display_group_size(effect_size):
         Text with information about required group size. will be displayed in
         'effect-size-display'.
     """
+    n_obs = sb.calculate_n_obs(effect_size)
+    text = f"To detect an effct size of {effect_size}, you would need {n_obs} observations"
     
-    return html.Div()
+    return html.Div(text)
 
 
 # Task 7.4.15
