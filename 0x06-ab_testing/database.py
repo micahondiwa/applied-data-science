@@ -81,13 +81,22 @@ class MongoRepository:
         # Return ages
         pass
 
-    def __ed_sort():
+    def __ed_sort(self, counts):
 
         """Helper function for self.get_ed_value_counts."""
-        pass
+        degrees = [
+        "High School or Baccalaureate",
+        "Some College (1-3 years)",
+        "Bachelor's degree",
+        "Master's degree",
+        "Doctorate (e.g. PhD)",
+        ]
+        mapping = {k: v for v, k in enumerate(degrees)}
+        sort_order = [mapping[c] for c in counts]
+        return sort_order
         
 
-    def get_ed_value_counts():
+    def get_ed_value_counts(self,normalize=False):
 
         """Gets value counts of applicant eduction levels.
 
