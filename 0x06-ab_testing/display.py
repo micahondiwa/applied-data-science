@@ -28,6 +28,7 @@ app.layout = html.Div(
         dcc.Slider(min=1, max=20, step = 1, value = 1, id="experiment-days-slider"),
         html.Div(id="experiment-days-display"),
         html.H1("Results")
+        html.Button("Begin Experiment", id="start-experiment-button",n_clicks=0)
     ]
 
 )
