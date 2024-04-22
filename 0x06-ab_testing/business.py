@@ -136,7 +136,7 @@ class StatsBuilder:
         # Return number of observations (group size * 2)
         return group_size * 2
 
-    def calculate_cdf_pct():
+    def calculate_cdf_pct(self, n_obs, days):
 
         """Calculate percent chance of gathering specified number of observations in
         specified number of days.
@@ -153,16 +153,20 @@ class StatsBuilder:
         float
             Percentage chance of gathering ``n_obs`` or more in ``days``.
         """
+        # Get data
+        no_quiz = self.repo.get_no_quiz_per_day()
         # Calculate quiz per day mean and std
-        
+        mean = no_quiz.mean()
+        std = no_quiz.std()
         # Calculate mean and std for days
-        
+        sum_mean = mean * days
+        sum_std = std * math.sqrt(days)
         # Calculate CDF probability, subtract from 1
-        
+        prob=1-scipy.stats.norm.cdf(n_obs,loc=sum_mean,scale=sum_std)
         # Turn probability to percentage
-
+        pct=prob*100
         # Return percentage
-        pass
+        return pct
 
     def run_experiment():
 

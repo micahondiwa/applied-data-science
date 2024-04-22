@@ -136,7 +136,7 @@ class MongoRepository:
         # Return Series
         return education
 
-    def get_no_quiz_per_day():
+    def get_no_quiz_per_day(self):
 
         """Calculates number of no-quiz applicants per day.
 
@@ -149,8 +149,27 @@ class MongoRepository:
         # Load result into Series
         
         # Return Series
-        pass
-
+        result = self.collection.aggregate(
+            [
+                {"$match":{"admissionsQuiz": "incomplete"}},
+                {
+                    "$group": {
+                        "_id":{"$dateTrunc": {"date": "$createdAt", "unit": "day"}},
+                        "count": {"$sum": 1}
+                        
+                    }
+                }
+            ]
+            )
+        no_quiz = (
+            pd.DataFrame(result)
+            .rename({"_id": "date", "count": "new_users"}, axis=1)
+            .set_index("date")
+            .sort_index()
+            .squeeze()
+            )
+        return no_quiz
+        
     def get_contingency_table():
 
         """After experiment is run, creates crosstab of experimental groups
