@@ -168,7 +168,7 @@ class StatsBuilder:
         # Return percentage
         return pct
 
-    def run_experiment():
+    def run_experiment(self, days):
 
         """Run experiment. Add results to repository.
 
