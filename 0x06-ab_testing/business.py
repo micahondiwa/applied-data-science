@@ -178,11 +178,14 @@ class StatsBuilder:
             Number of days to run experiment for.
         """
         # Instantiate Experiment
-        
-        # Reset experiment
+        exp = Experiment(repo=client, db="wqu-abtest", collection="ds-applicants")
 
+        # Reset experiment
+        exp.reset_experiment()
+        
         # Run experiment for days
-        pass
+        result = exp.run_experiment(days=days)
+        
 
     def run_chi_square():
 
