@@ -178,7 +178,7 @@ class StatsBuilder:
             Number of days to run experiment for.
         """
         # Instantiate Experiment
-        exp = Experiment(repo=client, db="wqu-abtest", collection="ds-applicants")
+        exp = Experiment(repo=self.repo, db="wqu-abtest", collection="ds-applicants")
 
         # Reset experiment
         exp.reset_experiment()
