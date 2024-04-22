@@ -111,15 +111,30 @@ class MongoRepository:
             W/ index sorted by education level
         """
         # Get degree value counts from database
+        result = self.collection.aggregate(
+            [
+                {
+                    "$group": {
+                        "_id":"$highestDegreeEarned",
+                        "count":{"$count": {}}
+                    }
+                }
+            ]
+        )
         
         # Load result into Series
-        
+        education = (pd.DataFrame(result)
+             .rename({"_id": "highest_degree_earned"}, axis="columns")
+             .set_index("highest_degree_earned")
+             .squeeze()
+            )
         # Sort Series using `self.__ed_sort`
-
+        education.sort_index(key=self.__ed_sort, inplace=True)
         # Optional: Normalize Series
-        
+        if normalize:
+            education = (education/education.sum())*100
         # Return Series
-        pass
+        return education
 
     def get_no_quiz_per_day():
 
