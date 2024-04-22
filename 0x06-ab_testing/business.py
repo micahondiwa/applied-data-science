@@ -104,7 +104,7 @@ class GraphBuilder:
 class StatsBuilder:
     """Methods for statistical analysis."""
 
-    def __init__():
+    def __init__(self):
 
         """init
 
@@ -113,9 +113,9 @@ class StatsBuilder:
         repo : MongoRepository, optional
             Data source, by default MongoRepository()
         """
-        pass
+        self.repo = repo
 
-    def calculate_n_obs():
+    def calculate_n_obs(self, effect_size):
 
         """Calculate the number of observations needed to detect effect size.
 
@@ -130,9 +130,11 @@ class StatsBuilder:
             Total number of observations needed, across two experimental groups.
         """
         # Calculate group size, w/ alpha=0.05 and power=0.8
-        
+        chi_square_power = GofChisquarePower()
+        group_size = math.ceil(chi_square_power.solve_power(effect_size=effect_size, alpha=0.05, power=0.8))
+
         # Return number of observations (group size * 2)
-        pass
+        return group_size * 2
 
     def calculate_cdf_pct():
 
@@ -203,3 +205,4 @@ class StatsBuilder:
 
         # Return chi-square results
         pass
+
