@@ -197,7 +197,7 @@ class StatsBuilder:
         result = exp.run_experiment(days=days)
         
 
-    def run_chi_square():
+    def run_chi_square(self):
 
         """Tests nominal association.
 
@@ -215,11 +215,11 @@ class StatsBuilder:
             The p-value for the test.
         """
         # Get data from repo
-
+        data = self.repo.get_contingency_table()
         # Create `Table2X2` from data
-
+        contingency_table = Table2x2(data.values)
         # Run chi-square test
-
+        chi_square_test = contingency_table.test_nominal_association()
         # Return chi-square results
-        pass
+        return chi_square_test
 
