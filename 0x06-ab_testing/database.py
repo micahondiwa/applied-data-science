@@ -169,8 +169,8 @@ class MongoRepository:
             .squeeze()
             )
         return no_quiz
-        
-    def get_contingency_table():
+
+    def get_contingency_table(self):
 
         """After experiment is run, creates crosstab of experimental groups
         by quiz completion.
@@ -181,10 +181,14 @@ class MongoRepository:
             2x2 crosstab
         """
         # Get observations from database
-
+        result = self.collection.find({"inExperiment" :True})
         # Load result into DataFrame
-
+        df = pd.DataFrame(result).dropna()
         # Create cross-tab from DataFrame
-        
+        data = pd.crosstab(
+            index=df["group"],
+            columns=df["admissionsQuiz"],
+            normalize=False
+        )
         # Return cross-tab
-        pass
+        return data
