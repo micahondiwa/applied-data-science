@@ -70,7 +70,7 @@ class GraphBuilder:
         Figure
         """
         # Get education level value counts from repo
-        degrees = self.repo_ed_value_counts(normalize=True)
+        education = self.repo.get_ed_value_counts(normalize=True)
 
         # Create Figure
         fig = px.bar(
