@@ -24,6 +24,7 @@ app.layout = html.Div(
         html.H2("Choose your effect size"),
         dcc.Slider(min=0.1, max=0.8, step = 0.1, value = 0.2, id="effect-size-slider"),
         html.Div(id="effect-size-display"),
+        html.H2("Choose Experiment duration"),
         dcc.Slider(min=1, max=20, step = 1, value = 1, id="experiment-days-slider"),
         html.Div(id="experiment-days-display"),
         html.H1("Results")
