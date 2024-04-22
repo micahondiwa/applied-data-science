@@ -84,7 +84,7 @@ class GraphBuilder:
         # Return Figure
         return fig 
 
-    def build_contingency_bar():
+    def build_contingency_bar(self):
 
         """Creates side-by-side bar chart from contingency table.
 
@@ -93,11 +93,21 @@ class GraphBuilder:
         Figure
         """
         # Get contingency table data from repo
-
+        data = self.repo.get_contingency_table()
         # Create Figure
-        
+        fig = px.bar(
+            data_frame=data,
+            barmode="group",
+            title="Admissions Quiz Completion by Group"
+        )
+        # Set axis labels
+        fig.update_layout(
+            xaxis_title ="Group",
+            yaxis_title = "Frequency [count]",
+            legend = {"title": "Admissions Quiz"}
+        )
         # Return Figure
-        pass
+        return fig
 
 
 # Tasks 7.4.12, 7.4.18, 7.4.20
