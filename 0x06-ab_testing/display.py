@@ -6,9 +6,9 @@ from dash import Dash
 # Task 7.4.1
 app = Dash(__name__)
 # Task 7.4.8
-gb = ...
+gb = GraphBuilder()
 # Task 7.4.13
-sb = ...
+sb = StatsBuilder()
 
 # Tasks 7.4.1, 7.4.2, 7.4.3, 7.4.11, 7.4.14, 7.4.16
 app.layout = html.Div(
