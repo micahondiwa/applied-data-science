@@ -87,7 +87,11 @@ def display_group_size(effect_size):
 
 
 # Task 7.4.15
-
+@app.callback(
+    Output("experiment-days-display","children"),
+    Input("effect-size-slider", "value"),
+    Input("experiment-days-slider", "value")
+)
 def display_cdf_pct(effect_size, days):
     """Serves probability of getting desired number of obervations.
 
@@ -104,13 +108,14 @@ def display_cdf_pct(effect_size, days):
         Text with information about probabilty. Goes to 'experiment-days-display'.
     """
     # Calculate number of observations
-
+    n_obs = sb.calculate_n_obs(effect_size)
     # Calculate percentage
-
+    pct=round(sb.calculate_cdf_pct(n_obs, days), 2)
     # Create text
+    text=f"The probability of getting this number of observations in {days} is {pct}"
     
     # Return Div with text
-    return html.Div()
+    return html.Div(text)
 
 
 # Task 7.4.17
