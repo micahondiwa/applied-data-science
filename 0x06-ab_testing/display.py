@@ -141,5 +141,14 @@ def display_results(n_clicks, days):
     html.Div
         Experiment results. Goes to 'results-display'.
     """
-    
-    return html.Div()
+    if n_clicks == 0:
+        return html.Div()
+    else:
+        # Run experiment
+
+        # side by side bar chart
+
+        # Chi-square
+
+        # return
+        return html.Div()
