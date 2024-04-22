@@ -61,7 +61,7 @@ class GraphBuilder:
         # Return Figure
         pass
 
-    def build_ed_bar():
+    def build_ed_bar(self):
 
         """Creates education level bar chart.
 
@@ -70,11 +70,19 @@ class GraphBuilder:
         Figure
         """
         # Get education level value counts from repo
+        degrees = self.repo_ed_value_counts(normalize=True)
 
         # Create Figure
-        
+        fig = px.bar(
+        x=education,
+        y=education.index,
+        orientation="h",
+        title="Applicants: Highest Degree Earned"
+        )
+        # Add axis labels
+        fig.update_layout(xaxis_title="Frequency [count]", yaxis_title="Degree")
         # Return Figure
-        pass
+        return fig 
 
     def build_contingency_bar():
 

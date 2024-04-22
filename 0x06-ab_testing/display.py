@@ -21,6 +21,9 @@ app.layout = html.Div(
         ),
         html.Div(id="demo-plots-display"),
         html.H1("Experiment"),
+        html.H2("Choose your effect size"),
+        dcc.Slider(min=0.1, max=0.8, step = 0.1, value = 0.2, id="effect-size-slider"),
+        html.Div(id="effect-size-display"),
         html.H1("Results")
     ]
 
@@ -46,7 +49,12 @@ def display_demo_graph(graph_name):
     dcc.Graph
         Plot that will be displayed in 'demo-plots-display' Div.
     """
-    
+    if graph_name == "Nationality":
+        fig = gb.build_nat_choropleth()
+    elif graph_name == "Age":
+        fig = gb.build_age_hist()
+    else:
+        fig = gb.build_ed_bar()
     return dcc.Graph()
 
 
