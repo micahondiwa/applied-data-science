@@ -145,10 +145,22 @@ def display_results(n_clicks, days):
         return html.Div()
     else:
         # Run experiment
+        sb.run_experiment(days)
 
         # side by side bar chart
+        fig=gb.build_contingency_bar()
 
         # Chi-square
+        result = sb.run_chi_square()
 
         # return
-        return html.Div()
+        return html.Div(
+            [
+                html.H2("Observations"),
+                dcc.Graph(fig),
+                html.H2("Chi-Square test for Independence"),
+                html.H3(f"degrees of freedom: {result.df}"),
+                html.H3(f"p_vlaue: {result.pvalue}"),
+                html.H3(f"Statistics: {result.statistics}")
+            ]
+        )
