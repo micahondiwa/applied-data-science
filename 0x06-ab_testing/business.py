@@ -10,7 +10,7 @@ from statsmodels.stats.power import GofChisquarePower
 from teaching_tools.ab_test.experiment import Experiment
 
 
-# Tasks 7.4.7, 7.4.9, 7.4.10, 7.4.19
+
 class GraphBuilder:
     """Methods for building Graphs."""
 

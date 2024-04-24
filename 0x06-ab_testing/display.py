@@ -63,7 +63,7 @@ def display_demo_graph(graph_name):
     return dcc.Graph()
 
 
-# Task 7.4.13
+
 @app.callback(
     Output("effect-size-display", "children"),
     Input("effect-size-slider", "value")
