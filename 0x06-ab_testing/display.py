@@ -6,7 +6,6 @@ from dash import Dash
 
 app = Dash(__name__)
 gb = GraphBuilder()
-
 sb = StatsBuilder()
 
 app.layout = html.Div(
