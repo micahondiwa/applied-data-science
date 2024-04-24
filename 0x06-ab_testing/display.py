@@ -35,7 +35,7 @@ app.layout = html.Div(
 )
 
 
-# Tasks 7.4.4, 7.4.8, 7.4.9, 7.4.10
+
 @app.callback(
     Output("demo-plots-display", "children"),
     Input("demo-plots-dropdown", "value")
