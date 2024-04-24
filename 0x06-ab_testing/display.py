@@ -5,7 +5,7 @@ from dash import Dash
 
 # Task 7.4.1
 app = Dash(__name__)
-# Task 7.4.8
+
 gb = GraphBuilder()
 
 sb = StatsBuilder()
