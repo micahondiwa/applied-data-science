@@ -3,7 +3,7 @@ from country_converter import CountryConverter
 from pymongo import MongoClient
 
 
-# Tasks 7.4.5, 7.4.6, 7.4.9, 7.4.10
+
 class MongoRepository:
     """For connecting and interacting with MongoDB."""
 
