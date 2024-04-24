@@ -84,7 +84,7 @@ def display_group_size(effect_size):
     return html.Div(text)
 
 
-# Task 7.4.15
+
 @app.callback(
     Output("experiment-days-display","children"),
     Input("effect-size-slider", "value"),
