@@ -116,7 +116,7 @@ def display_cdf_pct(effect_size, days):
     return html.Div(text)
 
 
-# Task 7.4.17
+
 @app.callback(
     Output("results-display","children"),
     Input("start-experiment-function","n_clicks"),
