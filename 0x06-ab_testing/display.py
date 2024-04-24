@@ -10,7 +10,6 @@ gb = GraphBuilder()
 # Task 7.4.13
 sb = StatsBuilder()
 
-# Tasks 7.4.1, 7.4.2, 7.4.3, 7.4.11, 7.4.14, 7.4.16
 app.layout = html.Div(
     [
         html.H1("Application Demographics"),
