@@ -7,7 +7,7 @@ from dash import Dash
 app = Dash(__name__)
 # Task 7.4.8
 gb = GraphBuilder()
-# Task 7.4.13
+
 sb = StatsBuilder()
 
 app.layout = html.Div(
