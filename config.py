@@ -30,5 +30,4 @@ class Settings(BaseSettings):
 
 
 # Create instance of `Settings` class that will be imported
-# in lesson notebooks and the other modules for application.
 settings = Settings()
