@@ -50,7 +50,7 @@ def build_model(ticker, use_new_data):
 app = FastAPI()
 
 
-# Task 8.4.11
+# hello route/endpoint
 # `"/hello" path with 200 status code
 @app.get("/hello", status_code=200)
 def hello():
