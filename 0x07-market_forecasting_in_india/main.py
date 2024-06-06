@@ -112,7 +112,7 @@ def fit_model(request: FitIn):
 
 
 # `"/predict" path, 200 status code
-@app.post("/predict", status=200, response_model=PredictOut)
+@app.post("/predict", status_code=200, response_model=PredictOut)
 def get_prediction(request: PredictIn):
 
     # Create `response` dictionary from `request`
