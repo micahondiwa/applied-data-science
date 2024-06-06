@@ -20,7 +20,7 @@ class FitOut(FitIn):
     success: bool
     message: str
     
-# Task 8.4.18, `PredictIn` class
+# `PredictIn` class
 class PredictIn(BaseModel):
     ticker: str
     n_days: int
