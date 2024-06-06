@@ -5,7 +5,6 @@ we can use AplhaVantage API key in other parts of the application.
 
 import os
 
-# pydantic used for data validation: https://pydantic-docs.helpmanual.io/
 from pydantic import BaseSettings
 
 
@@ -27,7 +26,4 @@ class Settings(BaseSettings):
     class Config:
         env_file = return_full_path(".env")
 
-
-# Create instance of `Settings` class that will be imported
-# in lesson notebooks and the other modules for application.
 settings = Settings()
