@@ -24,7 +24,7 @@ class FitOut(FitIn):
 class PredictIn(BaseModel):
     ticker: str
     n_days: int
-# Task 8.4.18, `PredictOut` class
+# `PredictOut` class
 class PredictOut(PredictIn):
     success: bool
     forecast: dict
