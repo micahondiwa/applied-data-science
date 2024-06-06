@@ -51,7 +51,7 @@ class AlphaVantageAPI:
         stock_data = response_data["Time Series (Daily)"]
         df = pd.DataFrame.from_dict(stock_data, orient="index", dtype=float)
 
-        # Convert index to `DatetimeIndex` named "date" (8.1.14)
+        # Convert index to `DatetimeIndex` named "date"
         df.index = pd.to_datetime(df.index)
         df.index.name = "date"
 
