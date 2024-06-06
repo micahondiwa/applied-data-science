@@ -55,7 +55,7 @@ class AlphaVantageAPI:
         df.index = pd.to_datetime(df.index)
         df.index.name = "date"
 
-        # Remove numbering from columns (8.1.15)
+        # Remove numbering from columns
         df.columns = [c.split(". ")[1] for c in df.columns]
 
         # Return DataFrame
