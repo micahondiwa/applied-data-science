@@ -1,9 +1,6 @@
-"""This module extracts information from your `.env` file so that
-you can use your AplhaVantage API key in other parts of the application.
+"""This module extracts information from the`.env` file so that
+we can use the AplhaVantage API key in other parts of the application.
 """
-
-# The os library allows you to communicate with a computer's
-# operating system: https://docs.python.org/3/library/os.html
 import os
 
 # pydantic used for data validation: https://pydantic-docs.helpmanual.io/
