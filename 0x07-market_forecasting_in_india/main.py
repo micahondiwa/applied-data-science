@@ -15,7 +15,7 @@ class FitIn(BaseModel):
     p: int
     q: int
     
-# Task 8.4.14, `FitOut` class
+# `FitOut` class
 class FitOut(FitIn):
     success: bool
     message: str
