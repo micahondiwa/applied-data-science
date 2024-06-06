@@ -30,7 +30,7 @@ class PredictOut(PredictIn):
     forecast: dict
     message: str
     
-# Task 8.4.15
+# build_model function
 def build_model(ticker, use_new_data):
 
     # Create DB connection
