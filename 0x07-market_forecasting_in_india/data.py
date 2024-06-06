@@ -32,7 +32,7 @@ class AlphaVantageAPI:
             Columns are 'open', 'high', 'low', 'close', and 'volume'.
             All are numeric.
         """
-        url = ("https://learn-api.wqu.edu/1/data-services/alpha-vantage/query?"
+        url = ("https://www.alphavantage.co/query?"
                "function=TIME_SERIES_DAILY&"
                f"symbol={ticker}&"
                f"outputsize={output_size}&"
