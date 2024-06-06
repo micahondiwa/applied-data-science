@@ -2,10 +2,8 @@
 we can use AplhaVantage API key in other parts of the application.
 """
 
-
 import os
-
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 
 
 def return_full_path(filename: str = ".env") -> str:
