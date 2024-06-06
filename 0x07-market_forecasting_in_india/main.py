@@ -7,7 +7,7 @@ from model import GarchModel
 from pydantic import BaseModel
 
 
-# Task 8.4.14, `FitIn` class
+# `FitIn` class
 class FitIn(BaseModel):
     ticker: str
     use_new_data: bool
