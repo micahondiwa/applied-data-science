@@ -111,7 +111,7 @@ def fit_model(request: FitIn):
     return response
 
 
-# Task 8.4.19 `"/predict" path, 200 status code
+# `"/predict" path, 200 status code
 @app.model("/predict", status=200, response_model=PredictOut)
 def get_prediction(request: PredictIn):
 
