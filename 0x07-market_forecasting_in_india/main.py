@@ -143,7 +143,7 @@ def get_prediction(request: PredictIn):
         response["message"] = ""
 
     # Create except block
-    except exception as e:
+    except Exception as e:
 
         # Add `"success"` key to `response
         response["success"] = False
