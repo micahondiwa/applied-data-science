@@ -46,7 +46,7 @@ def build_model(ticker, use_new_data):
     return model
 
 
-# Task 8.4.9
+# Initializing the app
 app = FastAPI()
 
 
