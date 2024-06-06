@@ -50,7 +50,7 @@ def build_model(ticker, use_new_data):
 app = FastAPI()
 
 
-# hello route/endpoint
+# hello path/endpoint
 # `"/hello" path with 200 status code
 @app.get("/hello", status_code=200)
 def hello():
@@ -59,7 +59,7 @@ def hello():
 
 
 
-# Task 8.4.16, `"/fit" path, 200 status code
+# `"/fit" path, 200 status code
 @app.post("/fit", status_code=200, response_model=FitOut)
 def fit_model(request: FitIn):
 
