@@ -47,7 +47,7 @@ class AlphaVantageAPI:
                 f"Invalid API Call.Check that ticker symbol'{ticker}' is correct"
             )
 
-        # Read data into DataFrame (8.1.12 & 8.1.13)
+        # Read data into DataFrame
         stock_data = response_data["Time Series (Daily)"]
         df = pd.DataFrame.from_dict(stock_data, orient="index", dtype=float)
 
