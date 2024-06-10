@@ -1,5 +1,5 @@
 """This module extracts information from .env file so that
-we can use AplhaVantage API key in other parts of the application.
+we can use AplhaVantage API key in other parts of the application
 """
 
 import os
