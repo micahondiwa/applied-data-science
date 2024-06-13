@@ -49,7 +49,6 @@ def build_model(ticker, use_new_data):
 # Initializing the app
 app = FastAPI()
 
-
 # hello path/endpoint
 # `"/hello" path with 200 status code
 @app.get("/hello", status_code=200)
