@@ -152,6 +152,5 @@ def get_prediction(request: PredictIn):
         #  Add `"message"` key to `response`
         response["message"] = str(e)
 
-    # Return response
     return response
     
