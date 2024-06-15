@@ -32,9 +32,9 @@ class GarchModel:
     predict
         Generate volatilty forecast from trained model.
     dump
-        Save trained model to file.
+        Saves trained model to file.
     load
-        Load trained model from file.
+        Loads trained model from file.
     """
 
     def __init__(self, ticker,repo, use_new_data):
