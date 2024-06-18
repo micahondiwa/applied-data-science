@@ -6,7 +6,6 @@ from fastapi import FastAPI
 from model import GarchModel
 from pydantic import BaseModel
 
-
 # `FitIn` class
 class FitIn(BaseModel):
     ticker: str
@@ -151,6 +150,5 @@ def get_prediction(request: PredictIn):
 
         #  Add `"message"` key to `response`
         response["message"] = str(e)
-
     return response
     
