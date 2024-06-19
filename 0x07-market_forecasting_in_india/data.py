@@ -24,7 +24,7 @@ class AlphaVantageAPI:
         output_size : str, optional
             Number of observations to retrieve. "compact" returns the
             latest 100 observations. "full" returns all observations for
-            equity. By default "full".
+            equity. By default "full"
 
         Returns
         -------
