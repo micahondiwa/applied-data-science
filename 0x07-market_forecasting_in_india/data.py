@@ -79,7 +79,7 @@ class SQLRepository:
 
             - 'fail': Raise a ValueError.
             - 'replace': Drop the table before inserting new values.
-            - 'append': Insert new values to the existing table.
+            - 'append': Insert new values to the existing table
 
             Dafault: 'fail'
 
