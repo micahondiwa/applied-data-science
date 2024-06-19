@@ -29,7 +29,7 @@ class AlphaVantageAPI:
         Returns
         -------
         pd.DataFrame
-            Columns are 'open', 'high', 'low', 'close', and 'volume'.
+            Columns are 'open', 'high', 'low', 'close', and 'volume'
             All are numeric.
         """
         url = ("https://www.alphavantage.co/query?"
