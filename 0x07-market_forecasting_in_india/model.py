@@ -56,7 +56,7 @@ class GarchModel:
 
         Returns
         -------
-        None.
+        None
         """
         # Add new data to database if required
         if self.use_new_data:
