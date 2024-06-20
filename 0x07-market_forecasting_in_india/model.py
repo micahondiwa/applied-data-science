@@ -52,7 +52,7 @@ class GarchModel:
         Parameters
         ----------
         n_observations : int
-            Number of observations to retrieve from database
+            Number of observations to retrieve from database.
 
         Returns
         -------
