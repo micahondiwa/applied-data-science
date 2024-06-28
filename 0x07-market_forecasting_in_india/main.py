@@ -52,7 +52,7 @@ app = FastAPI()
 # `"/hello" path with 200 status code
 @app.get("/hello", status_code=200)
 def hello():
-    """Return dictionary with greeting message."""
+    """Return dictionary with greeting message"""
     return {"message": "Hello World!"}
 
 
