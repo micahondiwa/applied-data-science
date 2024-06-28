@@ -61,7 +61,7 @@ def hello():
 @app.post("/fit", status_code=200, response_model=FitOut)
 def fit_model(request: FitIn):
 
-    """Fit model, return confirmation message.
+    """Fit model, return confirmation message
 
     Parameters
     ----------
