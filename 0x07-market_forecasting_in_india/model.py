@@ -84,7 +84,7 @@ class GarchModel:
     def fit(self, p=1, q=1):
 
         """Create model, fit to `self.data`, and attach to `self.model` attribute.
-        For assignment, also assigns adds metrics to `self.aic` and `self.bic`.
+        For assignment, also assigns adds metrics to `self.aic` and `self.bic`
 
         Parameters
         ----------
