@@ -70,7 +70,7 @@ def fit_model(request: FitIn):
     Returns
     ------
     dict
-        Must conform to `FitOut` class
+        Must conform to `FitOut` class.
     """
     # Create `response` dictionary from `request`
     response = request.dict()
