@@ -1,6 +1,6 @@
 # Applied Data Science
 
-**Projects**
+**Projects:**
 
 - Housing in Mexico
 - Housing in Buenos Aires
