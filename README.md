@@ -2,7 +2,7 @@
 
 **Projects:**
 
-- Housing in Mexico
+- Housing in Mexico.
 - Housing in Buenos Aires
 - Air Quality in Nairobi
 - Earthquake Damage in Nepal
