@@ -4,7 +4,7 @@
 - Housing in Buenos Aires.
 - Air Quality in Nairobi.
 - Earthquake Damage in Nepal.
-- Bankruptcy in Poland.
+- Bankruptcy in Poland
 - Customer Segmentation in the US.
-- AB Testing.
+- AB Testing
 - Market Forecasting in India.
