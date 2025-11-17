@@ -8,4 +8,3 @@
 - Customer Segmentation in the US.
 - AB Testing
 - Market Forecasting in India.
-- 
