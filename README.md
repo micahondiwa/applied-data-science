@@ -6,5 +6,5 @@
 - Earthquake Damage in Nepal.
 - Bankruptcy in Poland
 - Customer Segmentation in the US.
-- AB Testing
+- AB Testing.
 - Market Forecasting in India.
