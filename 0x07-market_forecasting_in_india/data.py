@@ -125,9 +125,8 @@ class SQLRepository:
             sql = f"SELECT * FROM '{table_name}' LIMIT {limit}"
         else:
             sql = f"SELECT * FROM '{table_name}'"
-
+            
         # Retrieve data, read into DataFrame
-        
         df= pd.read_sql(
             sql=sql, con = self.connection,
             parse_dates=["date"],
